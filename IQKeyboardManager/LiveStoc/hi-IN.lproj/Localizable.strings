@@ -1,0 +1,562 @@
+/* 
+  Localizable.strings
+  LiveStoc
+
+  Created by Harjit Singh on 11/21/17.
+  Copyright © 2017 Harjit Singh. All rights reserved.
+*/
+
+//splash screen
+"WELCOME_TEXT"="Welcome to Livestoc";
+"FIRST"="Post Your Animal For FREE";
+"SECOND"="Get Certification of Animals Done For 20% Better Price";
+"THIRD"="Buy Animals Access Database of Animals From Across The Nation";
+"FOURTH"="Get Advisory On Dairy Farming,Horses,Pets etc.";
+"FIFTH"="Articles: Read Articles From The Experts In The Industry";
+
+//login screen
+"EMAIL_PLACE"="Email";
+"PASSWORD_PLACE"="Password";
+"FORGOT"="Forgot Password";
+"REGISTER"="Register Now";
+"SIGN_IN"="LOGIN";
+"CHOOSE_LANGUAGE"="Change Language";
+
+//register,forgot,mobile screens
+
+"NEXT"="NEXT";
+"PHONE"="Phone";
+"ENTER_YOUR_EMAIL"="Enter Your Email Address";
+"GET_YOURSELF_REGISTERED"="Get Yourself Registered with Livestoc in Quick Steps";
+"MOBILE_NO"="Mobile Number";
+"SUBMIT"="SUBMIT";
+
+
+"ENTER_EMAIL"="Enter Your";
+"ENTER_MOBILE_MSG"="Enter Your Mobile Number";
+"ENTER_EMAIL_MSG"="Enter Your Email Address";
+"EMAIL_ADD"="Email Address";
+"SENT_VERIFIC_NUMBER"="Enter Verification Code Sent to Your Email Address";
+"MOBILE_CODE"="Mobile Code";
+"EMAIL_CODE"="Email Code";
+"VERIF_OTP"="Verify OTP";
+"ENTER_OTP"="Enter OTP";
+"GET_EMAIL_CODE"="Get Activation Code";
+"GET_OTP"="Get OTP";
+"CODE_SENT"="Activation Code Sent";
+"CODE_SENT_INFO"="Activation code has been sent to email address";
+"CONTINUE"="Continue";
+
+//final register
+
+"BACK_TO_LOG"="Back To Login";
+"FULL_NAME"="Full Name";
+"SELECT_COUNTRY"="Select Country";
+"ADDED_SUCCESS"="Added Successfully";
+"OK"="Ok";
+"CANCEL"="Cancel";
+
+"VALID_CODE"="Please enter valid verification code.";
+"CODE_MATCH"="Code Matched.";
+"CODE_NOT_MATCH"="Code Not Matched\nPlease enter valid verification code.";
+
+"NEW_PASS"="New Password";
+"VERIF_CODE"="Verification Code";
+
+
+
+//<string name="enter_email">Enter email.</string>
+"enter_email_error"="Enter Valid Email";
+//<string name="menu">Menu</string>
+//<string name="enter_verifiy_mobile">Please enter verification code sent to your email address</string>
+//<string name="enter_valid_password">Please enter valid password</string>
+//<string name="search_country">Select Country</string>
+//<string name="success">Success</string>
+
+//home screen
+
+"BUY"="BUY";
+"SELL"="SELL";
+"CERTIFICATIONS"="CERTIFICATIONS";
+"POST_ANIMALS"="POST YOUR ANIMALS FREE";
+"CERTIFICATION_ANIMAL"="CERTIFICATION OF ANIMAL";
+"ADVISORY"="ADVISORY";
+"ARTICLE"="ARTICLE";
+"POST_INFO"="Buyers are searching for Animals here.";
+"BUY_INFO"="Buy animals posted from all over the country.Have your pick by Livestoc Experts.";
+"CERTIFICATION_INFO"="Get your Animal certified and command your Price.";
+"ADVISORY_INFO"="Get free Advisory on animals,diseases,yield etc.";
+"ARTICLE_INFO"="The Text of Articles will be show here.";
+
+"FAIL_TITLE"="INDIA'S LIVESTOC FAIR";
+"LOGOUT"="Logout";
+"MY_PROFILE"="My Profile";
+"CHOOSE"="Choose";
+
+
+//POST DETAILS
+
+"name_id_tag"="Name of Animal / ID / tag No";
+
+"NO_INTERNET"="No Internet Available.";
+"COMPLETE_ALL_FIELDS"="Please Complete All Fields";
+"ERROR"="Error";
+"TRY_AGAIN"="Try Again";
+"REGISTER_SUCCESS"="Your email is successfully registered with Livestoc. You can login using Email and Password.";
+
+
+"home" = "मुख्य";
+"tab1" = "खोज करें";
+"tab2" = "दुकान";
+"tab3" = "मेरी सूची";
+"tab4" = "अन्य";
+
+"welcome" = "‘लाइवस्टॉक’ में आपका स्वागत है";
+"livestoc_fair" = "भारत की सबसे बड़ी पशु मण्डी";
+"buy" = "खरीदें";
+"sell" = "बेचें";
+"certification" = "सर्टीफिकेशन";
+"post_animal" = "पशु को मुफ्त में सूचीबद्ध करे";
+"post_msg" = "खरीददार यहां पर ही पशु खोज रहे हैं";
+"buy_msg" = "देश भर से सूचीबद्ध और ‘लाइवस्टॉक’ विशेषज्ञों द्वारा प्रमाणित पशु यहां से खरीदें";
+"certification_animal" = "पशु की सर्टीफिकेशन";
+"certification_msg" = "अपना पशु सर्टीफाई कराएं और बेहतर मूल्य पाएं";
+"advisory_animal" = "सलाह-मश्वरा";
+"advisory_msg" = "पशुओं की नस्ल, बीमारियां अथवा दूध पैदावार आदि संबंधी मुफ्त सलाह लें";
+"article_msg" = "लेख, समाचार और अन्य ज्ञान भरपूर सामग्री पढ़ना के लिए यहां क्लिक करें ";
+"article_animal" = "लेख, समाचार और अन्य ज्ञान";
+"click_back_exit" = "बाहर निकलने के लिये पीछे का बटन को क्लिक करें ";
+"select_category" = "श्रेणी का चयन करें";
+"type_of_animal" = "पशु की किस्म";
+"where_animal_loc" = "आपका पशु किस जगह पर है ?";
+"enter_loc" = "स्थान का नाम दर्ज करो";
+"my_loc" = "मेरा स्थान";
+"street" = "गली/मोहल्ला";
+"village" = "गांव";
+"post_office" = "डाकघर";
+"tehsil" = "तहसील";
+"district" = "जिला";
+"state" = "राज्य";
+"pincode" = "पिन कोड";
+"almost_done" = "प्रक्रिया लगभग पूरी हुई";
+"animal_features" = "पशु का\nब्यौरा";
+"upload_photo" = "फोटो\nअपलोड करें";
+"price" = "मूल्य";
+"name_id_tag" = "पशु का नाम / पहचान / टेग नंबर";
+"select_breed" = "नसल चुने";
+"other" = "अन्य";
+"breed_name" = "नसल का नाम";
+"mother_name" = "माँ का नाम";
+"father_name" = "पिता का नाम";
+"age_in_year" = "उम्र साल में";
+"age" = "उम्र";
+"height_cm" = "कद (फुट में)";
+"weight_kg" = "वजन (किलोग्रामों में)";
+"lactation" = "दूध का उत्पादन";
+"description" = "विवरण";
+"please_enter" = "कृपया दर्ज करें";
+"add_photo" = "फोटो अपलोड करें";
+"previous" = "पिछला ब्यौरा";
+"enter_price" = "कीमत दर्ज करें";
+"select_currency" = "करंसी चुने";
+"camera" = "कैमरा";
+"gallery" = "फोटो गैलरी/चित्रशाला";
+"select_photo" = "फोटो चुने";
+"select_picture" = "फोटो चुने";
+"yes" = "हां";
+"no" = "नहीं";
+"may_be" = "हो सकता है";
+"post" = "दर्ज करो";
+"certified_screen" = "क्या आप अपना पशु सर्टीफाई करवाने के इच्छुक हैं ?";
+"success_post" = "बधाई हो!\nआपकी सूची को सफलतापूर्वक दर्ज किया गया है";
+"all" = "सभी";
+"certified" = "प्रमाणित";
+"not_certified" = "प्रमाणित नहीं";
+"no_listing" = "सूची उपलब्ध नहीं है";
+"listing_near" = "निक्टवर्तीय सूची की दूरी (किलोमीटरों में )";
+"set_price" = "कीमत का दायरा निरधारित करें";
+"apply" = "आवेदन दें";
+"min" = "न्यूनत्म";
+"max" = "अधिकत्म";
+"contact_seller" = "बेचने वाले के साथ संपर्क करें";
+"mark_sold" = "बिक चुके पशु/जानवर पर टिक करें";
+"category" = "श्रेणी";
+"breed" = "नसल";
+"email" = "ई-मेल";
+"email_code" = "ई-मेल कोड";
+"password" = "पासवर्ड";
+"login" = "लोगइन";
+"forgot" = "पासवर्ड भूलने पर?";
+"register" = "अब रजिस्टर/दर्ज करें";
+"complete_fields" = "सभी क्षेत्र मुकम्मल करें";
+"login_success" = "लोगइन सफल हुआ";
+"account_error" = "खाता प्रमाणित नहीं है";
+"back_to_login" = "दोबारा लोगइन पर आएं";
+"full_name" = "पूरा नाम";
+"address" = "पूरा पता";
+"mobile_no" = "मोबाइल नंबर";
+"submit" = "दर्ज करो";
+"next" = "आगे वाला";
+"error" = "अड़ंगा";
+"ok" = "ठीक है";
+"phone" = "फोन";
+"otp_success" = "ओटीपी (एक बार का पासवर्ड) सफलतापूर्वक भेज दिया गया है";
+"otp_get" = "ओटीपी मंगाएं";
+"otp_verify" = "ओटीपी प्रमाणित करो";
+"register_success" = "आपका ई-मेल आईडी ‘लाइवस्टॉक’ के साथ सफलतापूर्वक दर्ज हो गया है। अब आप अपने ईमेल और पासवर्ड के साथ लोगइन कर सकते हो";
+"loading" = "लोगइन हो रहा है, इंतजार करो&#8230;";
+"dialog_title_filter" = "फिल्टर ";
+
+
+"first_sp" = "मुफ्त में अपना पशु सूचीबद्ध करें";
+"second_sp" = "पशु को प्रमाणित करवाकर 20 फीसदी तक और बेहतर मूल्य लें";
+"third_sp" = "देश भर के पशुओं की खरीद एवं बेच और डाटाबेस (आंकड़ों) तक पहुंच बनाएं";
+"fourth_sp" = "डेयरी फार्मिंग, घोड़ों व पालतू कुत्तों आदि के बारे मुफ्त सलाह लें.";
+"fifth_sp" = "ज्ञान भंडार: पशु जगत के विशेषज्ञों द्वारा लिखितडेयरी फार्मिंग, घोड़ों व पालतू कुत्तों आदि के बारे मुफ्त सलाह लें";
+
+"new_pass" = "नया पासवर्ड";
+"code" = "वेरीफिकेशन कोड / प्रमाणित कोड";
+"otp_code" = "एक्टीवेशन कोड प्राप्त करें";
+"forgot_pass" = "पासवर्ड भूलने पर";
+"edit_profile" = "एडिट प्रोफाइल";
+
+"gender" = "लिंग";
+"uid" = "पहचान नंबर";
+"facebook" = "फेसबुक";
+"country" = "देश";
+
+"plan_post" = "सदस्यता स्कीम सफलतापूर्वक खरीदने पर बधाई हो";
+"certification_screen" = "प्रमाणिकता में शामिल है सेहत की जांच, टीबी की जांच, खून की जांच, आंत की जांच और दूध का उत्पादन. ‘लाइवस्टॉक’ के पशु विशेषज्ञ घर जाकर करेंगे मेडिकली फिटनेस/प्रमाणिकता जांच";
+"certification_price" = "प्रती जानवर प्रमाणिकता जांच की फीस 2000 रुपये (दो हजार रुपये)";
+"success_certification" = "‘लाइवस्टॉक’ के विशेषज्ञों द्वारा सर्टीफिकेशन सफलतापूर्वक स्वीकार हुई";
+
+"no_item_shop" = "शॉप पर कोई वस्तू उपलब्ध नहीं है";
+"choose_plan" = "स्कीम चुने";
+"new_register" = "‘लाइवस्टॉक’ से अपनी रजिस्ट्रेशन तुरंत पाएं";
+"buy_now" = "अब खरीदें";
+"status" = "स्थिति: ";
+"cert_status" = "सर्टीफिकेशन: ";
+"articles" = "लेख";
+"advisory" = "सलाह-मश्वरा ";
+"profile" = "प्रोफाइल";
+"about_us" = "‘लाइवस्टॉक’ के बारे में";
+"contact_us" = "हमें संपर्क करें";
+"change_lang" = "भाषा तबदील करें";
+"select_language" = "भाषा चुनें";
+"logout" = "बाहर जाएं";
+"verify_code_msg" = "आपके मोबाइल पर भेजे गये वेरिफिकेशन कोड को दर्ज करो";
+"verify_email_msg" = "आपके ई-मेल पर भेजे गये वेरिफिकेशन कोड को दर्ज करो";
+"enter_mobile_msg" = "अपना मोबाइल नंबर भरो";
+"enter_email_msg" = "अपना ई-मेल आईडी भरो";
+"skip" = "आगे निकलो";
+"select_search" = "वस्तें चुनो या खोजो";
+"apply_cert" = "सर्टीफिकेशन के लिये आवेदन करें";
+"animal" = "जानवर";
+"fill_form_contact" = "‘लाइवस्टॉक’ के साथ संपर्क के लिय यह फार्म भरें";
+"message" = "संदेश";
+"send_email" = "ईमेल भेजो";
+"tollfree" = "टोल-फ्री नंबर.";
+"or" = "या";
+"no_article" = "कोई लेख उपलब्ध नहीं है";
+"live_update" = "‘लाइवस्टॉक’ ऐप अपडेट करें";
+"new_version_update" = "‘लाइवस्टॉक’ ऐप का नया वर्जन उपलब्ध है, कृपा करके इंस्टाल करें और नये स्वरूप का आनंद लें";
+"later" = "बाद में";
+"install" = "इंस्टाल";
+"fill_form_advisory" = "सलाह लेने के लिये अपना प्रश्र भरें";
+"query" = "पड़चौल";
+
+
+"privacy_policy" = "प्राइवेसी नीति";
+"refund_policy" = "रिफंड नीति";
+"buyer" = "खरीदार की सदस्यता";
+"seller" = "विक्रेता की सदस्यता";
+"pregnancy_month" = "गर्भावस्था का महीना";
+"is_pregnant_ques" = "क्या आपका पशु गर्भ से है?";
+"age_in_month" = "आयु (महीनों में)";
+"min_yield" = "न्यूनतम उत्पादन ";
+"max_yield" = "अधिकत्म उत्पादन";
+"yield" = "उत्पादन";
+"call" = "कॉल";
+"try_again" = "पुन: प्रयास करें";
+"congratulation" = "धन्यवाद !";
+"location_empty" = "आपके वर्तमान स्थान का भरना शेष है";
+"logout_msg" = "क्या आप वास्तव में लॉग आउट होना चाहते हैं?";
+"shop_cart" = "चयनित वस्तुएं";
+"no_membership" = "आपके पास कोई सदस्यता योजना नहीं है। विक्रेता से संपर्क करने के लिए कृपया एक योजना चुनें";
+"conti_nue" = "आगे बढ़ें";
+"enter_email" = "ईमेल दर्ज करें";
+"enter_email_error" = "सही ईमेल दर्ज करें";
+"activation_code_sent" = "आपका कोड भेजा दिया गया है";
+"activation_code_sent_to" = "आपका कोड आपके ई-मेल पर भेजा जा चुका है ";
+"cancel" = "रद्द करो";
+"menu" = "सूची";
+"enter_verifiy_mobile" = "कृपया अपने ई-मेल पर भेजा गया कोड दर्ज करें";
+"enter_valid_password" = "कृपया सही पासवर्ड दर्ज करें";
+"search_country" = "अपना देश चुनें";
+"success" = "सफल रहा";
+"compression" = "फोटो का आकार कम किया जा रहा है&#8230;";
+"preparing" = "अपलोड करने की तैयारी&#8230;";
+"uploading" = "अपलोड किया जा रहा&#8230;";
+"current_membership" = "आपके पास अभी तक कोई सदस्यता योजना नहीं है, और सदस्यता खरीदने के लिए आगे बढ़ें";
+"member_alert" = "सदस्यता सूचना";
+"listing_within" = "सूची सीमा के अंदर";
+"discard" = "रद्द करो";
+"discard_confirm" = "क्या आप इस चयनित तरकीब को रद्द करना चाहते हैं?";
+"no_breed" = "इस श्रेणी में कोई नसल शामिल नहीं है";
+"profile_update" = "आपका प्रोफाइल सफलतापूर्वक अपडेट कर दिया है";
+"country_set" = "आपका देश दर्ज कर दिया गया है";
+"update_country" = "आप अपने प्रोफाइल में अपने देश का नाम दर्ज कर सकते हैं";
+"add_listing" = "कृपया प्रमाणिकता के लिए कम से कम एक जानवर को सूचीबद्ध करें ";
+"selling" = "बेचा जा रहा है";
+"sold" = "बेच दिया गया है";
+"favorite" = "पसंदीदा";
+"within" = "अंदर ";
+"max_photo" = "अधिकतम 10 फोटो अपलोड किए जा सकते हैं";
+"processing" = "प्रक्रिया चालू है";
+"active" = "चालू है";
+"not_active" = "चालू नहीं है";
+"valid_code" = "कृपया अपना सही कोड दर्ज करें";
+"code_match" = "आपका कोड सही है";
+"code_not_match" = "आपका कोड मेल नहीं खाता।\nकृपया अपना सही कोड दर्ज करें";
+"liter" = "लीटर";
+"year" = "साल";
+"month" = "महीना";
+"foot" = "फुट";
+"kilogram" = "किलोग्राम";
+"remark" = "टिप्पणी";
+"primary_add" = "प्राथमिक पता";
+"secondry_add" = "अन्य पता";
+"seller_name" = "विक्रेता का नाम";
+"seller_email" = "विक्रेता का ई-मेल";
+"seller_contact" = "विक्रेता का मोबाइल नं";
+"is_pregnat" = "क्या आपका पशु गर्भ से है?";
+"height" = "कद ";
+"weight" = "वजन ";
+"certification_status" = "प्रमाणिकता की स्थिति: ";
+"total_access" = "संपूर्ण पहुंच";
+"remain_access" = "बकाया पहुंच";
+"start_date" = "प्रारंभ तिथि";
+"end_date" = "समाप्ति तिथि";
+"search" = "खोजो";
+
+"read_more" = "और पढो";
+"no_internet" = "इंटरनेट उपलब्ध नहीं है";
+"share" = "बांटो";
+"un_favorite" = "पसंदीदा हटाएं";
+"author" = "लेखक का नाम";
+
+"pref_loc" = "पशु सूची दिखाने के लिए कृपया अपना पसंदीदा स्थान दर्ज करें";
+
+"text_where_pickup_address" = "स्थान खोजे ...";
+"text_location" = "स्थान";
+"text_select" = "चुनते हैं";
+
+"select_gender" = "लिंग चुनें";
+"male" = "नर";
+"female" = "मादा";
+
+"or_reg" = "रजिस्टर/लॉगइन इस माध्यम से करें";
+"or_reg_mobile" = "मोबाइल से रजिस्टर";
+
+"otp_waiting" = "ओटीपी के लिए प्रतीक्षारत";
+"new_reg" = "नया रजिस्टर ?";
+
+
+//kjdhfjksdhf
+
+
+"order_status" = "Order Status";
+"is_payment" = "Payment Status";
+"order_date" = "Order Date";
+"delivery_date" = "Delivery Date";
+"order_number" = "Order Number";
+"order_price" = "Order Total";
+"orders" = "Orders";
+"detail_order" = "Order Detail";
+"advisory_detail" = "Advisory Detail";
+"add_comments" = "Write your comments...";
+
+
+
+"add_to_cart" = "Add to Cart";
+"quantity" = "Quantity";
+"landmark" = "Landmark";
+"city" = "City";
+"house_no" = "House Number";
+"deliver_to_address" = "Deliver to this Address";
+
+"select_address" = "Shipping Address Type";
+"home_address" = "Home";
+"office_address" = "Office";
+
+"no_item_cart" = "No Item in Cart";
+"price_filter" = "Price Filter";
+"clear_filter" = "Clear Filter/Show All";
+
+"product_total" = "Product Total: ";
+"product_tax" = "Tax: ";
+"product_shipping" = "Shipping: ";
+"cart_total" = "Total: ";
+"checkout" = "Confirm Order";
+"shipping_address" = "Shipping Address";
+"billing_address" = "Billing Address";
+"is_billing_address_same" = "Billing Address is same as Shipping Address.";
+"tax" = "Tax";
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+"consultancy_title" = "Consultancy- Livestoc Future  Farm Program";
+
+"consultancy_text" = "Presenting Livestoc’s new initiative to upgrade Indian farms to a futuristic tomorrow. It is an expert consultancy and guidance program that can transform your farm. Our endeavour is to help you upgrade your farm by guiding you with latest trends on farm management, hygiene, breeding, animal nutrition and much more. Livestoc experts will visit your month once every month and advice you on how to record and access your farm performance. This exercise will help improve the yield, the breed and the productivity of your farm as a whole. At Livestoc, we treat this program like a long term commitment towards a better future.";
+
+"consultancy_notice" = "Simply click the BUY button below to start the Future Farm Program with Livestoc.";
+
+"consultancy_title_two" = "Technical Consultancy by Livestoc";
+
+"consultancy_notice_two" = "Start the Future Farm Program with Livestoc today. For availing our Consultancy Services through the Future Farm Program mail us today at futurefarm@livestoc.com or call us at 18001216191";
+
+"consultancy_text_two" = "Presenting Livestocís new initiative to upgrade Indian farms to a futuristic tomorrow. It is an expert consultancy and guidance program that can transform your farm. Our endeavour is to help you upgrade your farm by guiding you with latest trends on farm management, hygiene, breeding, animal nutrition and much more. Livestoc experts will visit your farm every month and advice you on how to record and access your farm performance. This exercise will help improve the yield, the breed and the productivity of your farm as a whole. At Livestoc, we treat this program like a long term commitment towards a better future.";
+
+
+
+
+
+
+"certification_text_one" = "Quality is an investment in the future. At Livestoc we assure buyers and sellers of a fair deal with the help of Certification. A unique service that ensures transparency in the transaction. A sigh of relief for the buyer, and a better price for the seller. Sounds like the perfect deal. Get your animal certified at ₹2500/-  by simply applying online. We provide the option of getting an animal certified for both buyer and seller.";
+
+"certification_text_two" = "How does the seller benefit?";
+
+"certification_text_three" = "When you get your animal certified, it will be listed as a Certified Animal. A trusted certification that will clearly define the yield and health standards. What does this mean for you? More clarity means more enquiries. And more enquiries mean more buyers. Moreover, enjoy the privilege of a more informed buyer who is easy to seal the deal.To put it simply ₹2500/- spent on your cow’s certification today will ensure a premium of up to ₹10,000/-.";
+
+"certification_text_four" = "What is the certification process for a seller?";
+
+"certification_text_five" = "After listing the animal, a seller will have to go to listings page and then select the animal to be certified. You will be directed to a gateway for payment. Once paid, Livestoc experts will visit your place and thoroughly test the animal with blood samples, testifying the yield etc. The experts will then report the animal in ten days. And then finally your animal will be listed the Certified Animal category with reports to validate your claims.";
+
+"certification_text_six" = "How does a buyer benefit?";
+
+"certification_text_seven" = "At Livestoc, we understand that every buyer wants to make an investment on a product certified by experts. A Certified Animal comes with Livestoc assurance and a guarantee of no false claims. With no chances of cheating and the convenience of selecting a certified animal online a buyer needn’t hop from one mandi to another to find the right animal. We also have an option for the buyer to order a certification. Just select an animal you like and place an order online. You can even get an animal recertified just before buying for a full-proof deal. A small amount of ₹2500/- spent certification before a big purchase can make a world of difference and save you from a bad investment.";
+
+
+"certification_text_eight" = "Certified Animals";
+
+"certification_text_nine" = "Quality is an investment in the future. At Livestoc we assure buyers and sellers of a fair deal with the help of Certification. A unique service that ensures transparency in the transaction. A sigh of relief for the buyer, and a better price for the seller. Sounds like the perfect deal. Get your animal certified at ?1000/-  by simply applying online. We provide the option of getting an animal certified for both buyer and seller.   To put it simply, for a seller an investment of ?1000/- on your cowís certification today will ensure a premium of up to ?10,000/-. And for the buyer, a small amount of spent on certification before a big purchase can make a world of difference and save you from a bad investment.";
+
+"certification_text_ten" = "To get your animal certified to sell as certified animal mail us today at certifications@livestoc.com or call us at 18001216191";
+
+
+
+
+
+/////////////////////////////
+
+
+
+"semen_title" = "Semen Section";
+
+"semen_text" = "Livestoc offers the best semen available from around the world. Now every dairy farmer can order it conveniently with this service at their fingertips. Just log on to the Livestoc mobile app and pick your choice and order. After placing the order, a Livestoc Artificial Insemination Officer will visit your farm and carry out the procedure. We also provide guidance from livestock experts on the subject. We provide all the livestock insemination solutions right at your doorstep and help you with a hassle-free upgrade of your livestock.";
+
+"semen_notice" = "If you are an authorised Semen Seller or a Semen Company and want to sell semen through us mail us today at semen@livestoc.com or call 18001216191";
+
+
+
+
+
+
+
+"champion_title" = "Champion Bulls";
+
+"champion_text" = "The most reputed listing of bulls who challenge the limits of livestock farming, the Champion Bulls. Livestoc has built this platform to showcase these champions who win contests organised by various states and organisations to promote breeding. Find this exclusive list on Livestock and get in touch with breeders who excel in producing the best animals in the world. We will give an opportunity to the breeders to advertise their bulls to get a worldwide reach and visibility.";
+
+"champion_notice" = "If you own a Champion Bull, list it at Livestoc by sharing its details, photographs and certificates. Contact us today at 18001216191 or bulls@livestoc.com.";
+
+
+
+
+
+
+
+"doctor_title" = "Doctor On Call";
+
+"doctor_text" = "At Livestoc we consider animal health of utmost importance. In the best interests of breeders and farmers we have a paid facility called Doctor On Call. This service can be used anytime your animal is in any form of distress. Simply call our helpline and one of the doctors on our panel will reach you any time of the day and night. We have an expert panel of veterinary doctors all over India who will be a call away in case of any emergency. Doctor On Call at 18001216191.";
+
+"doctor_notice" = "To get empanelled as a Doctor on Call with us apply today at hr@livestoc.com or call at 18001216191";
+
+
+
+
+
+
+"auction_title" = "Auctions";
+
+"auction_text" = "We host auctions that have a worldwide audience due to the global customer base of Livestoc.";
+
+"auction_notice" = "Get in touch with us today to sell your animal through a worldwide auction to at 18001216191 or  mail us at auctions@livestoc.com.";
+
+
+
+
+
+
+
+
+"insurance_title" = "Insurance and loans";
+
+"insurance_text" = "Livestoc provides the best deals in the industry whether it comes to cattle insurance from insurance companies or a loan for adding more animals to your livestock or setting up a new livestock farm. Make the most of our user-base by getting deals like no other in the market.";
+
+"insurance_notice" = "To get further details mail us at query@livestoc.com or call us at 18001216191";
+
+
+
+
+
+
+
+"broker_text" = "Livestoc has the most exhaustive listing of brokers from around the world to help you buy and sell animals. Find their contact details for a convenient pick and better deals.";
+
+"broker_title" = "Find Brokers";
+
+"list_broker_title" = "List as a Broker";
+
+"list_broker_text" = "Are you a broker who wants to crack deals in the livestock business like never before? List yourself in our globally reputed list of brokers in livestock/cattle.";
+
+"list_broker_notice" = "Get listed as a broker apply today by contacting us at brokers@livestoc.com or call 18001216191";
+
+
+
+
+
+
+
+"advertise_title" = "Advertise with Livestoc";
+
+"advertise_text" = "Livestoc can empower you with global visibility in the livestock industry. This is a space where the best breeders, farmers, industry experts visit every day. The platform is growing exponentially and is on its way to cross one million downloads. And you can make the most of it by simply advertising your products at Livestoc.";
+
+"advertise_notice" = "To advertise with us mail us today at advertisements@livestoc.com or call at or toll free number 18001216191";
+
+
+
+
+
+"work_title" = "Work with Livestoc";
+
+"work_text" = "Livestoc is on a path to raise awareness and accentuate prosperity in the farms of India. We endeavour to create new opportunities for every person invested in the livestock industry. With Livestoc you can explore new possibilities and work with us for the welfare of the livestock world.";
+
+"work_us_text" = "Veterinary Doctors: Livestoc takes immense pride in the in-house team of veterinary doctors and the animal husbandry panel. We are looking for experts in farm management, nutrition, breeding, general practitioners etc. to join us for services like Doctor On Call, Certifications and Consultancy.   Artificial Insemination Officers: We are looking for qualified and authorised Artificial Insemination certificate holders. Apply to be part of the biggest livestock network.   Farm Connect Officer: If you are good at PR skills, communication and have good leadership qualities apply today at hr@livestoc.com    Sales: We are building the largest network of Livestock Sales Partners. We need smart, resourceful professionals who have an understand the market at the grassroots. People who can inspire others to expand this network and reach every corner, urban or rural to help farmers and breeders with Livestoc. If you have the passion to transform an industry, join the growing family of Livestoc.";
+
+"work_notice" = "To get empanelled with us or work with us apply today at hr@livestoc.com or call our toll free number 18001216191";
+
+
+
+
+"smart_title" = "Smart Cart";
+
+"smart_text" = "The Livestoc app doesnít only deal in animals. Find the best supplements, feed, OTC products and accessories on the mobile app and shop at the best value from the comfort of your home. Here, you can even buy products that are not easily available in a market near your village or town. Isnít it this the smartest way to shop?";
+
+"smart_notice" = "Sell with Smart Cart";
+
+"smart_text_two" = "Are you a feed manufacturer, fodder supplier, supplement manufacturer, or an accessory provider? Find the best opportunity to sell your products at the Livestoc shopping cart. With a massive user base of animal buyers and sellers from all over the world, your product will get the visibility you never imagined. We will empower you to beat your competition in the best of our capacity.";
+
+"smart_notice_two" = "To sell with our smart cart, mail us at smartcart@livestoc.com or call us at 18001216191";

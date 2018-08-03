@@ -1,0 +1,473 @@
+/* 
+  Localizable.strings
+  LiveStoc
+
+  Created by Harjit Singh on 11/21/17.
+  Copyright © 2017 Harjit Singh. All rights reserved.
+*/
+
+
+
+
+/*malayalam*/
+
+"home" = "ഹോം ";
+"tab1" = "തിരയുക ";
+"tab2" = "ഷോപ്പ് ";
+"tab3" = "എന്റെ ലിസ്റ്റിംഗ് ";
+"tab4" = "കൂടുതൽ ";
+
+"welcome" = "ലൈവ്സ്റ്റോക്കിലേക്ക് സ്വാഗതം ";
+"livestoc_fair" = "ഇൻഡ്യയുടെ ലൈവ്സ്റ്റോക്ക് മേള ";
+"buy" = "വാങ്ങുക  ";
+"sell" = "വില്‍ക്കുക ";
+"certification" = "സർട്ടിഫിക്കേഷനുകൾ ";
+"post_animal" = "നിങ്ങളുടെ മൃഗങ്ങളെ സൌജന്യമായി പോസ്റ്റുചെയ്യുക ";
+"post_msg" = "വാങ്ങുന്നവര്‍ മൃഗങ്ങള്‍ക്കായി ഇവിടെ തിരയുന്നു ";
+"buy_msg" = "രാജ്യമെമ്പാടും നിന്ന് പോസ്റ്റുചെയ്യുന്ന മൃഗങ്ങളെ വാങ്ങുക. ലൈവ്സ്റ്റോക്ക് വിദഗ്ധർ മുഖേനയാണോ നിങ്ങള്‍ തിരഞ്ഞെടുത്തത് ";
+"certification_animal" = "മൃഗങ്ങളുടെ സർട്ടിഫിക്കേഷന്‍ ";
+"certification_msg" = "നിങ്ങളുടെ മൃഗങ്ങള്‍ക്ക് സർട്ടിഫിക്കേഷന്‍ നേടി നിങ്ങള്‍ക്ക് ആവശ്യമുള്ള വില ആവശ്യപ്പെടൂ ";
+"advisory_animal" = "അഡ്വൈസറി ";
+"advisory_msg" = "മൃഗങ്ങൾ, രോഗങ്ങൾ, വിളവ് എന്നിവയ്ക്ക് സൗജന്യമായി ഉപദേശം നേടുക. ";
+"article_animal" = "ലേഖനങ്ങൾ, വാർത്തകളും സംഭവങ്ങളും ";
+"article_msg" = "കന്നുകാലി വ്യവസായത്തെ സംബന്ധിച്ച ലേഖനങ്ങളും വാർത്തകളും വായിക്കുകയും സംഭവങ്ങള്‍ മനസ്സിലാക്കുകയും ചെയ്യുക. ";
+"click_back_exit" = "പുറത്തുകടക്കാൻ വീണ്ടും മടങ്ങുക ക്ലിക്ക് ചെയ്യുക ";
+"select_category" = "വിഭാഗം തിരഞ്ഞെടുക്കുക ";
+"type_of_animal" = "മൃഗങ്ങളുടെ തരം ";
+"where_animal_loc" = "നിങ്ങളുടെ മൃഗം എവിടെയാണ് ഉള്ളത് ";
+"enter_loc" = "സ്ഥലം നൽകുക ";
+"my_loc" = "എന്റെ സ്ഥലം ";
+"street" = "തെരുവ് ";
+"village" = "വില്ലേജ് ";
+"post_office" = "പോസ്റ്റ് ഓഫീസ് ";
+"tehsil" = "തെഹ്സില്‍ ";
+"district" = "ജില്ല ";
+"state" = "സംസ്ഥാനം ";
+"pincode" = "പിൻ കോഡ് ";
+"almost_done" = "ഏകദേശം പൂര്‍ത്തിയായി ";
+"animal_features" = "മൃഗങ്ങളുടെ സവിശേഷതകൾ ";
+"upload_photo" = "ഫോട്ടോകൾ അപ്‌ലോഡ് ചെയ്യുക  ";
+"price" = "വില ";
+"name_id_tag" = "മൃഗങ്ങളുടെ പേര്  ഐഡി  ടാഗ് നം ";
+"select_breed" = "ബ്രീഡ് തിരഞ്ഞെടുക്കുക ";
+"other" = "മറ്റുള്ളവ ";
+"breed_name" = "ബ്രീഡിന്റെ പേര് ";
+"mother_name" = "അമ്മയുടെ പേര് ";
+"father_name" = "പിതാവിന്റെ പേര് ";
+"age_in_year" = "പ്രായം വര്‍ഷങ്ങളില്‍ ";
+"age" = "പ്രായം ";
+"height_cm" = "ഉയരം അടിയില്‍ ";
+"weight_kg" = "ഭാരം കിലോഗ്രാമില്‍ ";
+"lactation" = "പാല്‍ ചുരത്തല്‍ ";
+"description" = "വിവരണം ";
+"please_enter" = "ദയവായി നൽകുക ";
+"add_photo" = "ഫോട്ടോകൾ ചേർക്കുക ";
+"previous" = "മുമ്പത്തെ ";
+"enter_price" = "വില നൽകുക ";
+"select_currency" = "കറൻസി തിരഞ്ഞെടുക്കുക ";
+"camera" = "ക്യാമറ ";
+"gallery" = "ഗാലറി ";
+"select_photo" = "ഫോട്ടോ തിരഞ്ഞെടുക്കുക ";
+"select_picture" = "ഉപയോഗിക്കുന്ന ഫോട്ടോ തിരഞ്ഞെടുക്കുക ";
+"yes" = "അതെ ";
+"no" = "ഇല്ല ";
+"may_be" = "ഒരു പക്ഷേ ";
+"post" = "പോസ്റ്റുചെയ്യുക ";
+"certified_screen" = "നിങ്ങളുടെ മൃഗത്തിന് സർട്ടിഫിക്കേഷന്‍ ലഭിക്കുവാന്‍ നിങ്ങൾ താൽപ്പര്യപ്പെടുന്നുണ്ടോ ";
+"success_post" = "അഭിനന്ദനങ്ങൾ! നിങ്ങളുടെ ലിസ്റ്റിംഗ് വിജയകരമായി സമർപ്പിച്ചു. ";
+"all" = "എല്ലാം ";
+"certified" = "സർട്ടിഫൈഡ് ";
+"not_certified" = "സർട്ടിഫൈഡ് ചെയ്തിട്ടില്ല ";
+"no_listing" = "ലിസ്റ്റിംഗ് ലഭ്യമല്ല ";
+"listing_near" = "നിങ്ങൾക്ക് അടുത്തുള്ള ലിസ്റ്റിംഗ് (കിലോമീറ്ററില്‍) ";
+"set_price" = "വില പരിധി സജ്ജീകരിക്കുക ";
+"apply" = "പ്രയോഗിക്കുക ";
+"min" = "ഏറ്റവും കുറഞ്ഞത് ";
+"max" = "പരമാവധി ";
+"contact_seller" = "വില്‍പ്പനക്കാരനെ ബന്ധപ്പെടുക ";
+"mark_sold" = "വിറ്റതായി അടയാളപ്പെടുത്തുക ";
+"category" = "വിഭാഗം ";
+"breed" = "ബ്രീഡ് ";
+"email" = "ഈമെയിൽ ";
+"email_code" = "ഈമെയിൽ കോഡ് ";
+"password" = "പാസ്സ്‌വേര്‍ഡ്‌ ";
+"login" = "ലോഗിൻ ";
+"forgot" = "പാസ്സ്‌വേര്‍ഡ്‌ മറന്നോ ";
+"register" = " ഇപ്പോള്‍ രെജിസ്റ്റര്‍ ചെയ്യൂ ";
+"complete_fields" = "എല്ലാ ഫീൽഡുകളും പൂർത്തിയാക്കുക ";
+"login_success" = "ലോഗിൻ വിജയകരം ";
+"account_error" = "അക്കൗണ്ട് പരിശോധിച്ചില്ല ";
+"back_to_login" = "തിരികെ ലോഗിനിലേക്ക് ";
+"full_name" = "പൂർണ്ണമായ പേര് ";
+"address" = "വിലാസം ";
+"mobile_no" = "മൊബൈൽ നമ്പർ ";
+"submit" = "സമർപ്പിക്കുക ";
+"next" = "അടുത്തത് ";
+"error" = "പിശക് ";
+"ok" = "ശരി ";
+"phone" = "ഫോൺ ";
+"otp_success" = "ഒ.റ്റി.പി വിജയകരമായി അയച്ചു ";
+"otp_get" = "ഒ.റ്റി.പി നേടുക ";
+"otp_verify" = "ഒ.റ്റി.പി പരിശോധിക്കുക ";
+"otp_waiting" = "ഒ.റ്റി.പി നൽകുക ";
+"register_success" = "നിങ്ങളുടെ ഇമെയിൽ വിജയകരമായി ലൈവ്സ്റ്റോക്കിൽ രജിസ്റ്റർ ചെയ്തു. ഇമെയിൽ, പാസ്സ്‌വേര്‍ഡ്‌ ഉപയോഗിച്ചു് നിങ്ങൾക്കു് ലോഗിന്‍ ചെയ്യാവുന്നതാണ്. ";
+"loading" = "ലോഗ്ചെയ്യുന്നു, ദയവായി കാത്തിരിക്കുക&#8230; ";
+"dialog_title_filter" = "ഫിൽറ്റർ ചെയ്യുക ";
+"first_sp" = "നിങ്ങളുടെ മൃഗത്തെ സൗജന്യമായി പോസ്റ്റുചെയ്യുക ";
+"second_sp" = "20% മികച്ച വില ലഭിക്കുന്നതിന് നിങ്ങളുടെ മൃഗങ്ങള്‍ക്ക് സര്‍ട്ടിഫിക്കേഷന്‍ നേടുക ";
+"third_sp" = "രാജ്യമെമ്പാടുമുള്ള മൃഗങ്ങളുടെ ഡാറ്റാബേസ് ആക്സസ് ചെയ്ത് മൃഗങ്ങളെ വാങ്ങുക ";
+"fourth_sp" = "ഡയറി, ഫാമിംഗ്, കുതിരകൾ, വളർത്തുമൃഗങ്ങൾ മുതലായവയ്ക്ക് ഉപദേശങ്ങൾ നേടുക. ";
+"fifth_sp" = "ലേഖനങ്ങൾ വ്യവസായ മേഖലയിലെ വിദഗ്ധരിൽ നിന്നുള്ള ലേഖനങ്ങൾ വായിക്കുക ";
+"new_pass" = " പുതിയ പാസ്സ്‌വേര്‍ഡ്‌ ";
+"code" = " സ്ഥിരീകരണ കോഡ് ";
+"otp_code" = " ആക്റ്റിവേഷന്‍ കോഡ് നേടുക ";
+"forgot_pass" = " പാസ്സ്‌വേര്‍ഡ്‌ മറന്നോ ";
+"edit_profile" = " പ്രൊഫൈൽ എഡിറ്റുചെയ്യുക ";
+"gender" = "ലിംഗഭേദം ";
+"uid" = " തനത് ഐഡി ";
+"facebook" = "ഫെയ്സ്ബുക്ക് ";
+"country" = "രാജ്യം ";
+"plan_post" = "അഭിനന്ദനങ്ങൾ വിജയകരമായി മെമ്പർഷിപ്പ് പ്ലാൻ നിങ്ങൾക്ക് വാങ്ങിയിട്ടുണ്ട്. ";
+
+"certification_screen" = "ആരോഗ്യ പരിശോധന, ടി.ബി ടെസ്റ്റ്, രക്തത്തില്‍ പ്രോട്ടോസോവ പരിശോധന, കുടൽ അണുബാധ പരിശോധന, വിളവ് പരിശോധന എന്നിവ സര്‍ട്ടിഫിക്കേഷനില്‍ ഉൾപ്പെടുന്നു. മൃഗങ്ങളുടെ സൈറ്റിലെ വെറ്റിനറി സ്പെഷ്യലിസ്റ്റാണ് സർട്ടിഫിക്കറ്റ് നൽകുന്നത്. ";
+
+"certification_price" = "1 മൃഗത്തിന്റെ സര്‍ട്ടിഫിക്കേഷന് 2000- രൂപയാണ് ";
+"success_certification" = "ലൈവ്സ്റ്റോക്ക് വിദഗ്ധരുടെ സർട്ടിഫിക്കേഷന് വേണ്ടി വിജയകരമായി സമർപ്പിച്ചു. ";
+"no_item_shop" = "ഷോപ്പിംഗ് ചെയ്യാൻ ഇനങ്ങളൊന്നുമില്ല ";
+"choose_plan" = "പ്ലാനുകൾ തിരഞ്ഞെടുക്കുക ";
+"new_register" = "പെട്ടെന്നുള്ള നടപടികളിലൂടെ ലൈവ്സ്റ്റോക്കില്‍ സ്വയം രജിസ്റ്റർ ചെയ്യുക ";
+"buy_now" = "ഇപ്പോൾ വാങ്ങുക ";
+"status" = "സ്ഥിതി  ";
+"cert_status" = "സർട്ടിഫിക്കേഷൻ  ";
+"articles" = "ലേഖനങ്ങൾ ";
+"advisory" = "ഉപദേശം  ";
+"profile" = "എന്റെ പ്രൊഫൈൽ ";
+"about_us" = "ഞങ്ങളെക്കുറിച്ച് ";
+"contact_us" = "ഞങ്ങളെ ബന്ധപ്പെടുക ";
+"change_lang" = "ഭാഷ മാറ്റുക ";
+"logout" = "ലോഗ്ഔട്ട്‌ ";
+"verify_code_msg" = "നിങ്ങളുടെ മൊബൈൽ നമ്പറിലേക്ക് അയച്ച സ്ഥിരീകരണ കോഡ് നൽകുക ";
+"verify_email_msg" = "നിങ്ങളുടെ ഇമെയിൽ വിലാസത്തിലേക്ക് അയച്ച സ്ഥിരീകരണ കോഡ് നൽകുക ";
+"enter_mobile_msg" = "നിങ്ങളുടെ മൊബൈൽ നമ്പർ നൽകുക ";
+"enter_email_msg" = "നിങ്ങളുടെ ഇമെയിൽ വിലാസം നൽകുക ";
+"skip" = "ഒഴിവാക്കുക ";
+"select_search" = "ഇനങ്ങൾ തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ തിരയുക ";
+"apply_cert" = "സർട്ടിഫിക്കേഷന് വേണ്ടി അപേക്ഷിക്കുക ";
+"animal" = "മൃഗങ്ങൾ ";
+"fill_form_contact" = "ലൈവ്സ്റ്റോക്കുമായി ബന്ധപ്പെടാൻ ഈ ഫോം പൂരിപ്പിക്കുക ";
+"message" = "സന്ദേശം ";
+"send_email" = "ഇമെയിൽ അയയ്ക്കുക ";
+"tollfree" = "ടോൾ ഫ്രീ നമ്പര്‍ ";
+"or" = "അല്ലെങ്കില്‍ ";
+"no_article" = "ഒരു ലേഖനവും ലഭ്യമല്ല ";
+"live_update" = "ലൈവ്സ്റ്റോക്ക് ആപ്ലിക്കേഷൻ അപ്ഡേറ്റ് ";
+"new_version_update" = "ലൈവ്സ്റ്റോക്ക് ആപ്ലിക്കേഷന്റെ ഒരു പുതിയ പതിപ്പ് ലഭ്യമാണ്, പുതിയ സവിശേഷതകൾ ആസ്വദിക്കാൻ ദയവായി ഇൻസ്റ്റാൾ ചെയ്യുക. ";
+"later" = "പിന്നീട് ";
+"install" = "ഇൻസ്റ്റാൾ ചെയ്യുക ";
+"fill_form_advisory" = "ഉപദേശം നേടാൻ ഈ അന്വേഷണ ഫോം പൂരിപ്പിക്കുക ";
+"query" = "ചോദ്യം ";
+"privacy_policy" = "സ്വകാര്യതാനയം ";
+"refund_policy" = "റീഫണ്ട് നയം ";
+"buyer" = "വാങ്ങുന്നയാളുടെ അംഗത്വം ";
+"seller" = "വിൽപ്പനക്കാരന്റെ അംഗത്വം ";
+"pregnancy_month" = "ഗര്‍ഭകാലം മാസം ";
+"is_pregnant_ques" = "നിങ്ങളുടെ മൃഗം ഗര്‍ഭിണിയാണോ ";
+"age_in_month" = "പ്രായം മാസങ്ങളിൽ ";
+"min_yield" = "കുറഞ്ഞ വിളവ് ";
+"max_yield" = "പരമാവധി വിളവ് ";
+"yield" = "വിളവ് ";
+"call" = "വിളി ";
+"try_again" = "വീണ്ടും ശ്രമിക്കുക ";
+"congratulation" = "അഭിനന്ദനങ്ങൾ! ";
+"location_empty" = "നിലവിലെ സ്ഥാനം ശൂന്യമാണ് ";
+"logout_msg" = "നിങ്ങൾക്ക് ലോഗ് ഔട്ട്‌ ചെയ്യണമെന്ന് ഉറപ്പാണോ ";
+"shop_cart" = "കാർട്ട് ";
+"no_membership" = "നിങ്ങൾക്ക് മെമ്പര്‍ഷിപ്പ് പ്ലാൻ ഇല്ല, വിൽപ്പനക്കാരനുമായുള്ള ബന്ധം തുടരാൻ ദയവായി ഒന്ന് വാങ്ങുക ";
+"conti_nue" = "തുടരുക ";
+"enter_email" = "ഈമെയിൽ നൽകുക. ";
+"enter_email_error" = "സാധുവായ ഇമെയിൽ നൽകുക. ";
+"activation_code_sent" = "ആക്റ്റിവേഷന്‍ കോഡ് അയച്ചു ";
+"activation_code_sent_to" = "ഈമെയിൽ വിലാസത്തിലേക്ക് ആക്റ്റിവേഷന്‍ കോഡ് അയച്ചു ";
+"cancel" = "റദ്ദാക്കുക ";
+"menu" = "മെനു ";
+"enter_verifiy_mobile" = "നിങ്ങളുടെ ഈമെയിൽ വിലാസത്തിലേക്ക് അയച്ച സ്ഥിരീകരണ കോഡ് നൽകുക ";
+"enter_valid_password" = "സാധുവായ പാസ്സ്‌വേര്‍ഡ്‌ നൽകുക ";
+"search_country" = "രാജ്യം തിരഞ്ഞെടുക്കുക ";
+"success" = "വിജയം ";
+"compression" = "ചിത്രങ്ങൾ കംപ്രസ്സുചെയ്യുന്നു&#8230;";
+"preparing" = "അപ്‌ലോഡ് ചെയ്യാൻ തയ്യാറെടുക്കുന്നു &#8230; ";
+"uploading" = "അപ്‌ലോഡ് ചെയ്യുന്നു&#8230; ";
+"current_membership" = "നിലവിൽ നിങ്ങൾക്ക് അംഗത്വ പ്ലാൻ ഇല്ല, ദയവായി ഒരു പ്ലാൻ വാങ്ങുന്നത് തുടരുക. ";
+"member_alert" = "അംഗത്വ അലർട്ട് ";
+"listing_within" = "ഇതില്‍ ലിസ്റ്റുചെയ്യുക ";
+"discard" = "നിരാകരിക്കുക ";
+"discard_confirm" = "തിരഞ്ഞെടുത്ത ഫിൽട്ടർ നിരസിക്കണമെന്ന് ഉറപ്പാണോ ";
+"no_breed" = "വിഭാഗത്തിൽ ഇനങ്ങൾ ഇല്ല ";
+"profile_update" = "നിങ്ങളുടെ പ്രൊഫൈൽ വിജയകരമായി അപ്ഡേറ്റുചെയ്തു. ";
+"country_set" = "നിങ്ങളുടെ രാജ്യം ഇതിലേക്ക് സജ്ജമാക്കി ";
+"update_country" = "നിങ്ങളുടെ പ്രൊഫൈലില്‍ രാജ്യവും നിങ്ങൾക്ക് അപ്ഡേറ്റ് ചെയ്യാവുന്നതാണ്. ";
+"add_listing" = "വിൽക്കാൻ പുതിയ ഒരു മൃഗത്തെ ചേർക്കുക എന്നിട്ട് സർട്ടിഫിക്കേഷനുമായി തുടരുക. ";
+"selling" = "എല്ലാ വില്പനയും ";
+"sold" = "വിറ്റു ";
+"favorite" = "പ്രിയപ്പെട്ട ";
+"within" = "ഉള്ളിൽ ";
+"max_photo" = "പരമാവധി 10 ഫോട്ടോകൾ അപ്‌ലോഡ് ചെയ്യാവുന്നതാണ് ";
+"processing" = "പ്രോസസ്സ് ചെയ്യുന്നു ";
+"active" = "ആക്റ്റിവേറ്റ് ചെയ്തു ";
+"not_active" = "ആക്റ്റിവേറ്റ് ചെയ്തിട്ടില്ല ";
+"valid_code" = "സാധുവായ സ്ഥിരീകരണ കോഡ് നൽകുക. ";
+"code_match" = "കോഡ് പൊരുത്തപ്പെട്ടു. ";
+"code_not_match" = "കോഡ് യോജിക്കുന്നില്ല, ദയവായി സാധുവായ സ്ഥിരീകരണ കോഡ് നൽകുക. ";
+"liter" = "ലിറ്റര്‍ ";
+"year" = "വർഷങ്ങൾ ";
+"month" = "മാസങ്ങൾ ";
+"foot" = "അടി ";
+"kilogram" = "കിലോഗ്രാം ";
+"remark" = "റിമാര്‍ക്ക് ";
+"primary_add" = "പ്രാഥമിക വിലാസം ";
+"secondry_add" = "രണ്ടാമത്തെ വിലാസം ";
+"seller_name" = "വിൽപ്പനക്കാരന്റെ പേര് ";
+"seller_email" = "വിൽപ്പനക്കാരന്റെ ഈമെയിൽ ";
+"seller_contact" = "വിൽപ്പനക്കാരന്റെ മൊബൈൽ ";
+"is_pregnat" = "മൃഗം ഗർഭിണിയാണോ ";
+"height" = "ഉയരം ";
+"weight" = "ഭാരം ";
+"certification_status" = "സർട്ടിഫിക്കേഷൻ സ്റ്റാറ്റസ്  ";
+"total_access" = "ആകെ ആക്സസ് ";
+"remain_access" = "ശേഷിക്കുന്ന ആക്സസ് ";
+"start_date" = "തുടങ്ങുന്ന ദിവസം ";
+"end_date" = "അവസാനിക്കുന്ന ദിവസം ";
+"search" = "തിരയുക ";
+"read_more" = "കൂടുതല്‍ വായിക്കുക ";
+"no_internet" = "ഇന്റർനെറ്റ് ഇല്ല. ";
+"share" = "പങ്കിടുക ";
+"un_favorite" = "പ്രിയപ്പെട്ടവ നീക്കംചെയ്യുക ";
+"author" = "രചയിതാവിന്റെ പേര് ";
+"pref_loc" = "മൃഗങ്ങളുടെ ലിസ്റ്റിംഗ് കാണിക്കുന്നതിന് ദയവായി നിങ്ങളുടെ ഇഷ്ടപ്പെട്ട സ്ഥാനം നൽകുക ";
+"text_where_pickup_address" = "സ്ഥലങ്ങൾ തിരയുക&#8230; ";
+"text_location" = "സ്ഥലം ";
+"text_select" = "തിരഞ്ഞെടുക്കുക ";
+"text_pickmeup" = "ഡ്രൈവറെ കണ്ടെത്തുക ";
+"select_gender" = "ലിംഗഭേദം തിരഞ്ഞെടുക്കുക ";
+"male" = "പുരുഷന്‍ ";
+"female" = "സ്ത്രീ ";
+"or_reg" = "രജിസ്റ്റർ  ലോഗിൻ ചെയ്യുക ";
+"or_reg_mobile" = "മൊബൈൽ വഴി രജിസ്റ്റർ ചെയ്യുക ";
+"select_language" = "ഭാഷ തിരഞ്ഞെടുക്കുക ";
+
+"new_reg" = "<u> </u>";
+
+
+
+
+
+
+
+/*Cart*/
+
+"add_to_cart" = "Add to Cart";
+"quantity" = "Quantity";
+"landmark" = "Landmark";
+"city" = "City";
+"house_no" = "House Number";
+"deliver_to_address" = "Deliver to this Address";
+
+"select_address" = "Shipping Address Type";
+"home_address" = "Home";
+"office_address" = "Office";
+
+"no_item_cart" = "No Item in Cart";
+"price_filter" = "Price Filter";
+"clear_filter" = "Clear Filter/Show All";
+
+"product_total" = "Product Total: ";
+"product_tax" = "Tax: ";
+"product_shipping" = "Shipping: ";
+"cart_total" = "Total: ";
+"checkout" = "Confirm Order";
+"shipping_address" = "Shipping Address";
+"billing_address" = "Billing Address";
+"is_billing_address_same" = "Billing Address is same as Shipping Address.";
+"tax" = "Tax";
+
+"order_status" = "Order Status";
+"is_payment" = "Payment Status";
+"order_date" = "Order Date";
+"delivery_date" = "Delivery Date";
+"order_number" = "Order Number";
+"order_price" = "Order Total";
+"orders" = "Orders";
+"detail_order" = "Order Detail";
+"advisory_detail" = "Advisory Detail";
+"add_comments" = "Write your comments...";
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+"consultancy_title" = "Consultancy- Livestoc Future  Farm Program";
+
+"consultancy_text" = "Presenting Livestoc’s new initiative to upgrade Indian farms to a futuristic tomorrow. It is an expert consultancy and guidance program that can transform your farm. Our endeavour is to help you upgrade your farm by guiding you with latest trends on farm management, hygiene, breeding, animal nutrition and much more. Livestoc experts will visit your month once every month and advice you on how to record and access your farm performance. This exercise will help improve the yield, the breed and the productivity of your farm as a whole. At Livestoc, we treat this program like a long term commitment towards a better future.";
+
+"consultancy_notice" = "Simply click the BUY button below to start the Future Farm Program with Livestoc.";
+
+"consultancy_title_two" = "Technical Consultancy by Livestoc";
+
+"consultancy_notice_two" = "Start the Future Farm Program with Livestoc today. For availing our Consultancy Services through the Future Farm Program mail us today at futurefarm@livestoc.com or call us at 18001216191";
+
+"consultancy_text_two" = "Presenting Livestocís new initiative to upgrade Indian farms to a futuristic tomorrow. It is an expert consultancy and guidance program that can transform your farm. Our endeavour is to help you upgrade your farm by guiding you with latest trends on farm management, hygiene, breeding, animal nutrition and much more. Livestoc experts will visit your farm every month and advice you on how to record and access your farm performance. This exercise will help improve the yield, the breed and the productivity of your farm as a whole. At Livestoc, we treat this program like a long term commitment towards a better future.";
+
+
+
+
+
+
+"certification_text_one" = "Quality is an investment in the future. At Livestoc we assure buyers and sellers of a fair deal with the help of Certification. A unique service that ensures transparency in the transaction. A sigh of relief for the buyer, and a better price for the seller. Sounds like the perfect deal. Get your animal certified at ₹2500/-  by simply applying online. We provide the option of getting an animal certified for both buyer and seller.";
+
+"certification_text_two" = "How does the seller benefit?";
+
+"certification_text_three" = "When you get your animal certified, it will be listed as a Certified Animal. A trusted certification that will clearly define the yield and health standards. What does this mean for you? More clarity means more enquiries. And more enquiries mean more buyers. Moreover, enjoy the privilege of a more informed buyer who is easy to seal the deal.To put it simply ₹2500/- spent on your cow’s certification today will ensure a premium of up to ₹10,000/-.";
+
+"certification_text_four" = "What is the certification process for a seller?";
+
+"certification_text_five" = "After listing the animal, a seller will have to go to listings page and then select the animal to be certified. You will be directed to a gateway for payment. Once paid, Livestoc experts will visit your place and thoroughly test the animal with blood samples, testifying the yield etc. The experts will then report the animal in ten days. And then finally your animal will be listed the Certified Animal category with reports to validate your claims.";
+
+"certification_text_six" = "How does a buyer benefit?";
+
+"certification_text_seven" = "At Livestoc, we understand that every buyer wants to make an investment on a product certified by experts. A Certified Animal comes with Livestoc assurance and a guarantee of no false claims. With no chances of cheating and the convenience of selecting a certified animal online a buyer needn’t hop from one mandi to another to find the right animal. We also have an option for the buyer to order a certification. Just select an animal you like and place an order online. You can even get an animal recertified just before buying for a full-proof deal. A small amount of ₹2500/- spent certification before a big purchase can make a world of difference and save you from a bad investment.";
+
+
+"certification_text_eight" = "Certified Animals";
+
+"certification_text_nine" = "Quality is an investment in the future. At Livestoc we assure buyers and sellers of a fair deal with the help of Certification. A unique service that ensures transparency in the transaction. A sigh of relief for the buyer, and a better price for the seller. Sounds like the perfect deal. Get your animal certified at ?1000/-  by simply applying online. We provide the option of getting an animal certified for both buyer and seller.   To put it simply, for a seller an investment of ?1000/- on your cowís certification today will ensure a premium of up to ?10,000/-. And for the buyer, a small amount of spent on certification before a big purchase can make a world of difference and save you from a bad investment.";
+
+"certification_text_ten" = "To get your animal certified to sell as certified animal mail us today at certifications@livestoc.com or call us at 18001216191";
+
+
+
+
+
+/////////////////////////////
+
+
+
+"semen_title" = "Semen Section";
+
+"semen_text" = "Livestoc offers the best semen available from around the world. Now every dairy farmer can order it conveniently with this service at their fingertips. Just log on to the Livestoc mobile app and pick your choice and order. After placing the order, a Livestoc Artificial Insemination Officer will visit your farm and carry out the procedure. We also provide guidance from livestock experts on the subject. We provide all the livestock insemination solutions right at your doorstep and help you with a hassle-free upgrade of your livestock.";
+
+"semen_notice" = "If you are an authorised Semen Seller or a Semen Company and want to sell semen through us mail us today at semen@livestoc.com or call 18001216191";
+
+
+
+
+
+
+
+"champion_title" = "Champion Bulls";
+
+"champion_text" = "The most reputed listing of bulls who challenge the limits of livestock farming, the Champion Bulls. Livestoc has built this platform to showcase these champions who win contests organised by various states and organisations to promote breeding. Find this exclusive list on Livestock and get in touch with breeders who excel in producing the best animals in the world. We will give an opportunity to the breeders to advertise their bulls to get a worldwide reach and visibility.";
+
+"champion_notice" = "If you own a Champion Bull, list it at Livestoc by sharing its details, photographs and certificates. Contact us today at 18001216191 or bulls@livestoc.com.";
+
+
+
+
+
+
+
+"doctor_title" = "Doctor On Call";
+
+"doctor_text" = "At Livestoc we consider animal health of utmost importance. In the best interests of breeders and farmers we have a paid facility called Doctor On Call. This service can be used anytime your animal is in any form of distress. Simply call our helpline and one of the doctors on our panel will reach you any time of the day and night. We have an expert panel of veterinary doctors all over India who will be a call away in case of any emergency. Doctor On Call at 18001216191.";
+
+"doctor_notice" = "To get empanelled as a Doctor on Call with us apply today at hr@livestoc.com or call at 18001216191";
+
+
+
+
+
+
+"auction_title" = "Auctions";
+
+"auction_text" = "We host auctions that have a worldwide audience due to the global customer base of Livestoc.";
+
+"auction_notice" = "Get in touch with us today to sell your animal through a worldwide auction to at 18001216191 or  mail us at auctions@livestoc.com.";
+
+
+
+
+
+
+
+
+"insurance_title" = "Insurance and loans";
+
+"insurance_text" = "Livestoc provides the best deals in the industry whether it comes to cattle insurance from insurance companies or a loan for adding more animals to your livestock or setting up a new livestock farm. Make the most of our user-base by getting deals like no other in the market.";
+
+"insurance_notice" = "To get further details mail us at query@livestoc.com or call us at 18001216191";
+
+
+
+
+
+
+
+"broker_text" = "Livestoc has the most exhaustive listing of brokers from around the world to help you buy and sell animals. Find their contact details for a convenient pick and better deals.";
+
+"broker_title" = "Find Brokers";
+
+"list_broker_title" = "List as a Broker";
+
+"list_broker_text" = "Are you a broker who wants to crack deals in the livestock business like never before? List yourself in our globally reputed list of brokers in livestock/cattle.";
+
+"list_broker_notice" = "Get listed as a broker apply today by contacting us at brokers@livestoc.com or call 18001216191";
+
+
+
+
+
+
+
+"advertise_title" = "Advertise with Livestoc";
+
+"advertise_text" = "Livestoc can empower you with global visibility in the livestock industry. This is a space where the best breeders, farmers, industry experts visit every day. The platform is growing exponentially and is on its way to cross one million downloads. And you can make the most of it by simply advertising your products at Livestoc.";
+
+"advertise_notice" = "To advertise with us mail us today at advertisements@livestoc.com or call at or toll free number 18001216191";
+
+
+
+
+
+"work_title" = "Work with Livestoc";
+
+"work_text" = "Livestoc is on a path to raise awareness and accentuate prosperity in the farms of India. We endeavour to create new opportunities for every person invested in the livestock industry. With Livestoc you can explore new possibilities and work with us for the welfare of the livestock world.";
+
+"work_us_text" = "Veterinary Doctors: Livestoc takes immense pride in the in-house team of veterinary doctors and the animal husbandry panel. We are looking for experts in farm management, nutrition, breeding, general practitioners etc. to join us for services like Doctor On Call, Certifications and Consultancy.   Artificial Insemination Officers: We are looking for qualified and authorised Artificial Insemination certificate holders. Apply to be part of the biggest livestock network.   Farm Connect Officer: If you are good at PR skills, communication and have good leadership qualities apply today at hr@livestoc.com    Sales: We are building the largest network of Livestock Sales Partners. We need smart, resourceful professionals who have an understand the market at the grassroots. People who can inspire others to expand this network and reach every corner, urban or rural to help farmers and breeders with Livestoc. If you have the passion to transform an industry, join the growing family of Livestoc.";
+
+"work_notice" = "To get empanelled with us or work with us apply today at hr@livestoc.com or call our toll free number 18001216191";
+
+
+
+
+"smart_title" = "Smart Cart";
+
+"smart_text" = "The Livestoc app doesnít only deal in animals. Find the best supplements, feed, OTC products and accessories on the mobile app and shop at the best value from the comfort of your home. Here, you can even buy products that are not easily available in a market near your village or town. Isnít it this the smartest way to shop?";
+
+"smart_notice" = "Sell with Smart Cart";
+
+"smart_text_two" = "Are you a feed manufacturer, fodder supplier, supplement manufacturer, or an accessory provider? Find the best opportunity to sell your products at the Livestoc shopping cart. With a massive user base of animal buyers and sellers from all over the world, your product will get the visibility you never imagined. We will empower you to beat your competition in the best of our capacity.";
+
+"smart_notice_two" = "To sell with our smart cart, mail us at smartcart@livestoc.com or call us at 18001216191";

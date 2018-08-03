@@ -1,0 +1,495 @@
+
+/* Class = "UINavigationItem"; title = "Its Almost Done"; ObjectID = "05a-9j-k30"; */
+"05a-9j-k30.title" = "Its Almost Done";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "05y-GJ-qQK"; */
+"05y-GJ-qQK.text" = "Age:";
+
+/* Class = "UITextField"; placeholder = "Enter"; ObjectID = "1Pb-N7-7I1"; */
+"1Pb-N7-7I1.placeholder" = "Enter";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "291-KQ-Io1"; */
+"291-KQ-Io1.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "2OG-AS-6QB"; */
+"2OG-AS-6QB.text" = "Location";
+
+/* Class = "UILabel"; text = "Type Of Animal"; ObjectID = "37T-mj-zxH"; */
+"37T-mj-zxH.text" = "Type Of Animal";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Fe-0K-mHU"; */
+"3Fe-0K-mHU.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Father's Name"; ObjectID = "3ZW-xp-aBX"; */
+"3ZW-xp-aBX.placeholder" = "Father's Name";
+
+/* Class = "UILabel"; text = "Lactation"; ObjectID = "4Nl-il-3d7"; */
+"4Nl-il-3d7.text" = "Lactation";
+
+/* Class = "UIButton"; normalTitle = "Animal Features"; ObjectID = "4Rq-2Z-qob"; */
+"4Rq-2Z-qob.normalTitle" = "Animal Features";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "4q2-X3-4Aq"; */
+"4q2-X3-4Aq.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "54F-dd-HFO"; */
+"54F-dd-HFO.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "min"; ObjectID = "5Da-Vy-l0R"; */
+"5Da-Vy-l0R.text" = "min";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "5Ec-cF-ExG"; */
+"5Ec-cF-ExG.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Xu-dP-zhi"; */
+"5Xu-dP-zhi.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Select Category"; ObjectID = "5iR-fs-b9i"; */
+"5iR-fs-b9i.title" = "Select Category";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6Ug-sZ-u9F"; */
+"6Ug-sZ-u9F.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "6mT-EX-Hyp"; */
+"6mT-EX-Hyp.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6sW-UX-yRe"; */
+"6sW-UX-yRe.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "7Rs-AK-0QU"; */
+"7Rs-AK-0QU.normalTitle" = "Select";
+
+/* Class = "UITextField"; placeholder = "Name of Animal / ID / Tag No"; ObjectID = "840-xp-dNL"; */
+"840-xp-dNL.placeholder" = "Name of Animal / ID / Tag No";
+
+/* Class = "UILabel"; text = "Yield"; ObjectID = "8Hz-Lj-ZrW"; */
+"8Hz-Lj-ZrW.text" = "Yield";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "8iT-6j-JKR"; */
+"8iT-6j-JKR.text" = "123456";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9qs-mF-hCU"; */
+"9qs-mF-hCU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "ACw-xP-oYW"; */
+"ACw-xP-oYW.text" = "or";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "AlH-7u-Tox"; */
+"AlH-7u-Tox.text" = "123456";
+
+/* Class = "UITabBarItem"; title = "My Listing"; ObjectID = "ApP-UE-9nG"; */
+"ApP-UE-9nG.title" = "My Listing";
+
+/* Class = "UILabel"; text = "Add Photos"; ObjectID = "Arl-vc-xaP"; */
+"Arl-vc-xaP.text" = "Add Photos";
+
+/* Class = "UILabel"; text = "Buffalo"; ObjectID = "Atz-L8-1fw"; */
+"Atz-L8-1fw.text" = "Buffalo";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "B3X-rd-G1j"; */
+"B3X-rd-G1j.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "BAU-p7-lOs"; */
+"BAU-p7-lOs.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "12-12-2012"; ObjectID = "BFE-WE-RER"; */
+"BFE-WE-RER.text" = "12-12-2012";
+
+/* Class = "UITabBarItem"; title = "Shop"; ObjectID = "BHX-hm-cnG"; */
+"BHX-hm-cnG.title" = "Shop";
+
+/* Class = "UILabel"; text = " "; ObjectID = "CNS-A5-Z5G"; */
+"CNS-A5-Z5G.text" = " ";
+
+/* Class = "UILabel"; text = "3000"; ObjectID = "Cm7-4q-Um5"; */
+"Cm7-4q-Um5.text" = "3000";
+
+/* Class = "UILabel"; text = "Lactation:"; ObjectID = "Cu7-77-oJq"; */
+"Cu7-77-oJq.text" = "Lactation:";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "D8J-4N-fq8"; */
+"D8J-4N-fq8.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Max Yield"; ObjectID = "DUs-1K-Vvj"; */
+"DUs-1K-Vvj.placeholder" = "Max Yield";
+
+/* Class = "UILabel"; text = "Within 3000 kms"; ObjectID = "Dtq-Hb-VWV"; */
+"Dtq-Hb-VWV.text" = "Within 3000 kms";
+
+/* Class = "UILabel"; text = "Aman Nagar,Tanda Road,Jalandhar,Punjab.144001"; ObjectID = "F9F-uQ-uMO"; */
+"F9F-uQ-uMO.text" = "Aman Nagar,Tanda Road,Jalandhar,Punjab.144001";
+
+/* Class = "UINavigationItem"; title = "Contact Us"; ObjectID = "GbQ-h7-JAD"; */
+"GbQ-h7-JAD.title" = "Contact Us";
+
+/* Class = "UITextField"; placeholder = "a"; ObjectID = "HFr-FI-aZ8"; */
+"HFr-FI-aZ8.placeholder" = "a";
+
+/* Class = "UILabel"; text = "500"; ObjectID = "HRM-2C-aWe"; */
+"HRM-2C-aWe.text" = "500";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Hpk-59-sS6"; */
+"Hpk-59-sS6.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Yield:"; ObjectID = "JNf-fr-GIt"; */
+"JNf-fr-GIt.text" = "Yield:";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "JS4-y3-MwF"; */
+"JS4-y3-MwF.text" = "123456";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "JcU-U2-VAX"; */
+"JcU-U2-VAX.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Register Now"; ObjectID = "JrO-n6-tNN"; */
+"JrO-n6-tNN.normalTitle" = "Register Now";
+
+/* Class = "UILabel"; text = "Jalandhar pujab india"; ObjectID = "JwY-dd-YUf"; */
+"JwY-dd-YUf.text" = "Jalandhar pujab india";
+
+/* Class = "UILabel"; text = "Register Through Mobile"; ObjectID = "KUP-i6-7Ib"; */
+"KUP-i6-7Ib.text" = "Register Through Mobile";
+
+/* Class = "UINavigationItem"; title = "Shop"; ObjectID = "KpL-Tv-bGp"; */
+"KpL-Tv-bGp.title" = "Shop";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "M7m-VH-oNS"; */
+"M7m-VH-oNS.normalTitle" = "Apply";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "M8V-BL-spn"; */
+"M8V-BL-spn.text" = "123456";
+
+/* Class = "UILabel"; text = "INDIA'S LIVESTOC FAIR"; ObjectID = "M9E-se-cpo"; */
+"M9E-se-cpo.text" = "INDIA'S LIVESTOC FAIR";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "MAk-F6-imy"; */
+"MAk-F6-imy.text" = "123456";
+
+/* Class = "UILabel"; text = "Remark"; ObjectID = "MMd-bh-z99"; */
+"MMd-bh-z99.text" = "Remark";
+
+/* Class = "UILabel"; text = "(+91)"; ObjectID = "MWn-P1-Zfc"; */
+"MWn-P1-Zfc.text" = "(+91)";
+
+/* Class = "UINavigationItem"; title = "Cow"; ObjectID = "MWu-rF-xT2"; */
+"MWu-rF-xT2.title" = "Cow";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "N3o-41-V7L"; */
+"N3o-41-V7L.text" = "Age";
+
+/* Class = "UINavigationItem"; title = "Enter Location"; ObjectID = "Nip-iz-AjD"; */
+"Nip-iz-AjD.title" = "Enter Location";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "Nvf-v1-wqN"; */
+"Nvf-v1-wqN.text" = "Age";
+
+/* Class = "UITextField"; placeholder = "Weight in Kg"; ObjectID = "OKA-Lw-0lz"; */
+"OKA-Lw-0lz.placeholder" = "Weight in Kg";
+
+/* Class = "UILabel"; text = "Litres"; ObjectID = "OLl-E3-yb2"; */
+"OLl-E3-yb2.text" = "Litres";
+
+/* Class = "UILabel"; text = "Fill this form to contact LiveStoc"; ObjectID = "OTK-1f-LzS"; */
+"OTK-1f-LzS.text" = "Fill this form to contact LiveStoc";
+
+/* Class = "UILabel"; text = "Listing within 2 kms"; ObjectID = "Omi-78-pdH"; */
+"Omi-78-pdH.text" = "Listing within 2 kms";
+
+/* Class = "UILabel"; text = "Jalandhar pujab india"; ObjectID = "OuI-ba-6PP"; */
+"OuI-ba-6PP.text" = "Jalandhar pujab india";
+
+/* Class = "UILabel"; text = "Get Yourself Registered with Livestoc in Quick Steps"; ObjectID = "Pnc-My-bpe"; */
+"Pnc-My-bpe.text" = "Get Yourself Registered with Livestoc in Quick Steps";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "QC8-Dw-yY2"; */
+"QC8-Dw-yY2.text" = "123456";
+
+/* Class = "UIButton"; normalTitle = "ENGLISH"; ObjectID = "QIg-tI-A2H"; */
+"QIg-tI-A2H.normalTitle" = "ENGLISH";
+
+/* Class = "UIButton"; normalTitle = "Send Email"; ObjectID = "Qlb-sR-A5b"; */
+"Qlb-sR-A5b.normalTitle" = "Send Email";
+
+/* Class = "UITextField"; placeholder = "Mobile No"; ObjectID = "R7S-hx-TAi"; */
+"R7S-hx-TAi.placeholder" = "Mobile No";
+
+/* Class = "UIButton"; normalTitle = "My Location"; ObjectID = "RDc-KG-SyN"; */
+"RDc-KG-SyN.normalTitle" = "My Location";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "RaL-1E-UI0"; */
+"RaL-1E-UI0.title" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rcu-Qh-kUu"; */
+"Rcu-Qh-kUu.text" = "Label";
+
+/* Class = "UILabel"; text = "max"; ObjectID = "Rwr-ZR-r4m"; */
+"Rwr-ZR-r4m.text" = "max";
+
+/* Class = "UILabel"; text = "Lactation"; ObjectID = "S7V-9K-NSa"; */
+"S7V-9K-NSa.text" = "Lactation";
+
+/* Class = "UILabel"; text = "Certification Status:"; ObjectID = "S7n-FR-iku"; */
+"S7n-FR-iku.text" = "Certification Status:";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "SYS-Oj-6e2"; */
+"SYS-Oj-6e2.text" = "123456";
+
+/* Class = "UILabel"; text = "Register / Login Through"; ObjectID = "T9V-Ax-lqb"; */
+"T9V-Ax-lqb.text" = "Register / Login Through";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "TAx-jl-ESk"; */
+"TAx-jl-ESk.title" = " ";
+
+/* Class = "UITextField"; placeholder = "Height in foot"; ObjectID = "U7Q-Ii-Elj"; */
+"U7Q-Ii-Elj.placeholder" = "Height in foot";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "UMU-HW-2ee"; */
+"UMU-HW-2ee.normalTitle" = "Forgot Password ?";
+
+/* Class = "UIButton"; normalTitle = "Price"; ObjectID = "V2V-ZS-27Q"; */
+"V2V-ZS-27Q.normalTitle" = "Price";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VJv-L9-PSg"; */
+"VJv-L9-PSg.text" = "Label";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "VLe-3Z-G1x"; */
+"VLe-3Z-G1x.text" = "Price";
+
+/* Class = "UIButton"; normalTitle = "Choose Language"; ObjectID = "VUv-rJ-yKv"; */
+"VUv-rJ-yKv.normalTitle" = "Choose Language";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "Vdn-a1-mpS"; */
+"Vdn-a1-mpS.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "Wfz-kT-FBw"; */
+"Wfz-kT-FBw.normalTitle" = "SKIP";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Wlw-v3-nVe"; */
+"Wlw-v3-nVe.title" = " ";
+
+/* Class = "UITextField"; placeholder = "Min Yield"; ObjectID = "WpU-Kx-C1Q"; */
+"WpU-Kx-C1Q.placeholder" = "Min Yield";
+
+/* Class = "UINavigationItem"; title = "Filter"; ObjectID = "X9o-2D-ajc"; */
+"X9o-2D-ajc.title" = "Filter";
+
+/* Class = "UITextField"; placeholder = "a"; ObjectID = "Xdv-Wl-tEl"; */
+"Xdv-Wl-tEl.placeholder" = "a";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "Xy8-tH-URd"; */
+"Xy8-tH-URd.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "123456789"; ObjectID = "Y3B-ue-gcK"; */
+"Y3B-ue-gcK.normalTitle" = "123456789";
+
+/* Class = "UITextField"; placeholder = "Mother's Name"; ObjectID = "ZNB-KC-i18"; */
+"ZNB-KC-i18.placeholder" = "Mother's Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZYu-jp-KUt"; */
+"ZYu-jp-KUt.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "ZqP-Lh-IVV"; */
+"ZqP-Lh-IVV.normalTitle" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "Ztd-xK-O85"; */
+"Ztd-xK-O85.normalTitle" = "Previous";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "a63-z4-dhJ"; */
+"a63-z4-dhJ.title" = " ";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "aEO-7w-PqZ"; */
+"aEO-7w-PqZ.title" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "as4-JC-WAr"; */
+"as4-JC-WAr.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Upload Photos"; ObjectID = "asf-sa-LOx"; */
+"asf-sa-LOx.normalTitle" = "Upload Photos";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "b6o-WM-co0"; */
+"b6o-WM-co0.title" = "More";
+
+/* Class = "UINavigationItem"; title = "Menu"; ObjectID = "bP4-dC-muj"; */
+"bP4-dC-muj.title" = "Menu";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "bUt-qY-H1v"; */
+"bUt-qY-H1v.text" = "Name";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "bYT-Qa-RaZ"; */
+"bYT-Qa-RaZ.text" = "123456";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "bu1-A8-M49"; */
+"bu1-A8-M49.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "d0z-Kb-ssG"; */
+"d0z-Kb-ssG.text" = "10";
+
+/* Class = "UILabel"; text = "Certified"; ObjectID = "d5p-lQ-A8J"; */
+"d5p-lQ-A8J.text" = "Certified";
+
+/* Class = "UITextField"; placeholder = "Search Locations..."; ObjectID = "eXX-pa-F8M"; */
+"eXX-pa-F8M.placeholder" = "Search Locations...";
+
+/* Class = "UILabel"; text = "12-12-2012"; ObjectID = "fFQ-Ty-xBz"; */
+"fFQ-Ty-xBz.text" = "12-12-2012";
+
+/* Class = "UITextField"; placeholder = "a"; ObjectID = "fX5-cs-Dbm"; */
+"fX5-cs-Dbm.placeholder" = "a";
+
+/* Class = "UITextField"; placeholder = "Enter Price"; ObjectID = "fpW-jr-abc"; */
+"fpW-jr-abc.placeholder" = "Enter Price";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "hAe-Pa-ZRw"; */
+"hAe-Pa-ZRw.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Enter Your Email Address"; ObjectID = "hDe-2G-PAd"; */
+"hDe-2G-PAd.text" = "Enter Your Email Address";
+
+/* Class = "UILabel"; text = "Toll Free No."; ObjectID = "hai-Qg-ri8"; */
+"hai-Qg-ri8.text" = "Toll Free No.";
+
+/* Class = "UILabel"; text = "Set a Price Range"; ObjectID = "hkR-we-UrD"; */
+"hkR-we-UrD.text" = "Set a Price Range";
+
+/* Class = "UISegmentedControl"; hoc-Re-Lk8.segmentTitles[0] = "BUY"; ObjectID = "hoc-Re-Lk8"; */
+"hoc-Re-Lk8.segmentTitles[0]" = "BUY";
+
+/* Class = "UISegmentedControl"; hoc-Re-Lk8.segmentTitles[1] = "SELL"; ObjectID = "hoc-Re-Lk8"; */
+"hoc-Re-Lk8.segmentTitles[1]" = "SELL";
+
+/* Class = "UISegmentedControl"; hoc-Re-Lk8.segmentTitles[2] = "CERTIFICATIONS"; ObjectID = "hoc-Re-Lk8"; */
+"hoc-Re-Lk8.segmentTitles[2]" = "CERTIFICATIONS";
+
+/* Class = "UILabel"; text = "Yield"; ObjectID = "i1n-ff-gBu"; */
+"i1n-ff-gBu.text" = "Yield";
+
+/* Class = "UILabel"; text = "Welcome to Livetoc"; ObjectID = "iRi-tL-iQn"; */
+"iRi-tL-iQn.text" = "Welcome to Livetoc";
+
+/* Class = "UIButton"; normalTitle = "GET OTP"; ObjectID = "jFH-df-GpH"; */
+"jFH-df-GpH.normalTitle" = "GET OTP";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "jcg-1l-8EM"; */
+"jcg-1l-8EM.text" = "200";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "je5-aD-KSz"; */
+"je5-aD-KSz.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "jj5-xo-9jI"; */
+"jj5-xo-9jI.placeholder" = "Full Name";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "jl6-6u-KjW"; */
+"jl6-6u-KjW.title" = " ";
+
+/* Class = "UILabel"; text = "Attrib"; ObjectID = "k2Q-tp-KuM"; */
+"k2Q-tp-KuM.text" = "Attrib";
+
+/* Class = "UILabel"; text = "Namenamename"; ObjectID = "knV-5z-Woh"; */
+"knV-5z-Woh.text" = "Namenamename";
+
+/* Class = "UINavigationItem"; title = "My Listing"; ObjectID = "la0-A9-XGj"; */
+"la0-A9-XGj.title" = "My Listing";
+
+/* Class = "UILabel"; text = "Rs 300000"; ObjectID = "lcC-1E-Kdc"; */
+"lcC-1E-Kdc.text" = "Rs 300000";
+
+/* Class = "UILabel"; text = "Where is your Animal Located ?"; ObjectID = "lp7-Wy-mRl"; */
+"lp7-Wy-mRl.text" = "Where is your Animal Located ?";
+
+/* Class = "UITextField"; placeholder = "a"; ObjectID = "m0n-X6-qig"; */
+"m0n-X6-qig.placeholder" = "a";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mjs-B9-4qc"; */
+"mjs-B9-4qc.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Contact Seller"; ObjectID = "mw7-sn-czu"; */
+"mw7-sn-czu.normalTitle" = "Contact Seller";
+
+/* Class = "UILabel"; text = "No Data Found"; ObjectID = "mzn-pp-0sk"; */
+"mzn-pp-0sk.text" = "No Data Found";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "nMB-JI-NOZ"; */
+"nMB-JI-NOZ.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Are You Interested in getting Your Animal Certified"; ObjectID = "nOj-Cz-Cv4"; */
+"nOj-Cz-Cv4.text" = "Are You Interested in getting Your Animal Certified";
+
+/* Class = "UILabel"; text = "LiveStoc"; ObjectID = "nig-TI-2Sr"; */
+"nig-TI-2Sr.text" = "LiveStoc";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "o8S-Ob-eGO"; */
+"o8S-Ob-eGO.text" = "20";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "oFU-XG-45M"; */
+"oFU-XG-45M.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Livestoc"; ObjectID = "oaT-bp-KjA"; */
+"oaT-bp-KjA.title" = "Livestoc";
+
+/* Class = "UIButton"; normalTitle = "Select Country"; ObjectID = "omA-cj-oKZ"; */
+"omA-cj-oKZ.normalTitle" = "Select Country";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "pIg-pb-I0d"; */
+"pIg-pb-I0d.title" = " ";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pkj-Mp-VWk"; */
+"pkj-Mp-VWk.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "qGH-7w-MSU"; */
+"qGH-7w-MSU.text" = "50";
+
+/* Class = "UILabel"; text = "INR"; ObjectID = "qTO-Do-lXH"; */
+"qTO-Do-lXH.text" = "INR";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "qix-w5-YaG"; */
+"qix-w5-YaG.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "2017-11-12"; ObjectID = "rC3-HK-s6J"; */
+"rC3-HK-s6J.text" = "2017-11-12";
+
+/* Class = "UILabel"; text = "Not Certified"; ObjectID = "rr9-B1-rCd"; */
+"rr9-B1-rCd.text" = "Not Certified";
+
+/* Class = "UIButton"; normalTitle = "Back To Login"; ObjectID = "sXa-vW-ugN"; */
+"sXa-vW-ugN.normalTitle" = "Back To Login";
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "seR-sl-RT1"; */
+"seR-sl-RT1.normalTitle" = "Previous";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "tkv-nK-hD0"; */
+"tkv-nK-hD0.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Enter Price"; ObjectID = "tot-FJ-I7A"; */
+"tot-FJ-I7A.text" = "Enter Price";
+
+/* Class = "UIButton"; normalTitle = "May Be"; ObjectID = "vWG-z0-MFt"; */
+"vWG-z0-MFt.normalTitle" = "May Be";
+
+/* Class = "UILabel"; text = "Namenamename"; ObjectID = "w2u-Cc-CtY"; */
+"w2u-Cc-CtY.text" = "Namenamename";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "w6m-7L-mxI"; */
+"w6m-7L-mxI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "wWM-Hk-uML"; */
+"wWM-Hk-uML.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "xAo-zp-0qg"; */
+"xAo-zp-0qg.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "Select Breed"; ObjectID = "ydO-H1-RaB"; */
+"ydO-H1-RaB.text" = "Select Breed";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "ydq-me-3Tg"; */
+"ydq-me-3Tg.placeholder" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yx7-Th-muX"; */
+"yx7-Th-muX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "z8d-81-BFw"; */
+"z8d-81-BFw.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "zKO-CI-gHa"; */
+"zKO-CI-gHa.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "zXj-io-Hbk"; */
+"zXj-io-Hbk.text" = "1000";

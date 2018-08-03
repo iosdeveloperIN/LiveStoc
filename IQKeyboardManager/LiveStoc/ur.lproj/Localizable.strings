@@ -1,0 +1,455 @@
+/* 
+  Localizable.strings
+  LiveStoc
+
+  Created by Harjit Singh on 11/21/17.
+  Copyright © 2017 Harjit Singh. All rights reserved.
+*/
+
+
+
+
+
+
+/*urdu*/
+
+"home" = "ہوم ";
+"tab1" = "سرچ ";
+"tab2" = "شاپ ";
+"tab3" = "مائی لسٹنگ ";
+"tab4" = "مزید ";
+
+"welcome" = "لائیوسٹاک میں آپ کا استقبال ہیں ";
+"livestoc_fair" = "انڈیا کی لائیوسٹاک فیئر ";
+"buy" = "خریدیں ";
+"sell" = "فروخت کریں ";
+"certification" = "سرٹیفیکیشنس ";
+"post_animal" = "آپ کے جانور مفت پوسٹ کریں ";
+"post_msg" = "خریداریہاں جانور ڈھونڈ رہیں ہیں ";
+"buy_msg" = "پورے ملک سے پوسٹ کیے ہوۓ جانور خریدیں۔ لائیوسٹاک ماہرین کو آپ کا انتخاب کرنے دیں۔ ";
+"certification_animal" = "جانور کاسرٹیفیکیشن ";
+"certification_msg" = "آپ کے جانور کوسرٹیفائی کریں اور اپنی قیمت کا مطالبہ کریں۔ ";
+"advisory_animal" = "مشاورتی ";
+"advisory_msg" = "جانوروں، امراض، محصول وغیرہ  پر مفت مشورہ حاصل کریں۔ ";
+"article_animal" = "مضامین، خبریں اور وقوعات ";
+"article_msg" = "مضامین، خبریں پزھیں اور لائیوسٹاک انڈسٹری کی وقوعات کے بارے میں معلومات حاصل کریں۔ ";
+"click_back_exit" = "کلک کریں۔BACKباہر جانے کے لیے براہ کرم دوبارہ ";
+"select_category" = "قسم منتخب کریں ";
+"type_of_animal" = "جانور کی قسم ";
+"where_animal_loc" = "آپ کا جانور کس مقام پر ہے؟ ";
+"enter_loc" = "مقام کا نام درج کریں ";
+"my_loc" = "میرا مقام ";
+"street" = "سڑک ";
+"village" = "گاؤں ";
+"post_office" = "ڈاک گھر ";
+"tehsil" = "تحصیل ";
+"district" = "ضلع ";
+"state" = "ریاست ";
+"pincode" = "پن کوڈ ";
+"almost_done" = "یہ تقریبا ختم ہوچکا ";
+"animal_features" = "جانور کے نقوش ";
+"upload_photo" = "تصویریں اپ لوڈ کریں ";
+"price" = "قیمت ";
+"name_id_tag" = "جانور کا نام / شناخت / ٹیگ نمبر ";
+"select_breed" = "نسل منتخب کریں ";
+"other" = "دیگر ";
+"breed_name" = "نسل کا نام ";
+"mother_name" = "ماں کا نام ";
+"father_name" = "باپ کا نام ";
+"age_in_year" = "عمر سال میں ";
+"age" = "عمر ";
+"height_cm" = "اونچائی فٹ میں ";
+"weight_kg" = "وزن کلوگرام میں ";
+"lactation" = "رضاعت ";
+"description" = "تفصیلات ";
+"please_enter" = "براہ کرم درج کریں ";
+"add_photo" = "تصویریں ڈالیں ";
+"previous" = "سابقہ ";
+"enter_price" = "قیمت درج کریں ";
+"select_currency" = "کرنسی منتخب کریں ";
+"camera" = "کیمرا ";
+"gallery" = "گیلری ";
+"select_photo" = "تصویر منتخب کریں ";
+"select_picture" = "استعمال کرتے ہوۓ تصویر منتخب کریں ";
+"yes" = "جی ہاں ";
+"no" = "جی نہیں ";
+"may_be" = "شاید ";
+"post" = "پوسٹ ";
+
+"certified_screen" = "کیا آپ چاہتے ہیں کہ آپ کے جانور کی تصدیق کی جاۓ ";
+
+"success_post" = "مبارک ہو، آپ کی لسٹنگ کامیابی سے داخل کی گئی۔ ";
+"all" = "تمام ";
+"certified" = "تصدیق کی گئی ";
+"not_certified" = "تصدیق نہیں کی گئی ";
+"no_listing" = "لسٹنگ دستیاب نہیں ہے ";
+"listing_near" = ")لسٹنگ آپ کے نزدیک (کلومیٹر میں ";
+"set_price" = "قیمت کا ایک رینجطے کریں ";
+"apply" = "عرضی کریں ";
+"min" = "کم از کم ";
+"max" = "زیادہ سے زیادہ ";
+"contact_seller" = "سیلر سے رابطہ کریں ";
+"mark_sold" = "فروخت شدہ کا نشان لگائیں ";
+"category" = "قسم ";
+"breed" = "نسل ";
+"email" = "ای میل ";
+"email_code" = "ای میل کوڈ ";
+"password" = "پاس ورڈ ";
+"login" = "لاگ ان کریں ";
+"forgot" = "کیا آپ پاس ورڈ بھول گۓ؟ ";
+"register" = " ابھی اندراج کریں ";
+"complete_fields" = "تمام رکانے مکمل بھریں ";
+"login_success" = "لاگ ان کامیاب ";
+"account_error" = "اکاؤنٹ کی تصدیق متحقق نہیں ";
+"back_to_login" = "دوبارہ لاگ ان کریں ";
+"full_name" = "مکمل نام ";
+"address" = "پتہ ";
+"mobile_no" = "موبائل نمبر ";
+"submit" = "داخل کریں ";
+"next" = "اگلا ";
+"error" = "غلطی ";
+"ok" = "اوکے ";
+"phone" = "فون ";
+"otp_success" = "او ٹی پی کامیابی سے بھیجی گئی ";
+"otp_get" = "او ٹی پی حاصل کریں ";
+"otp_verify" = "او ٹی پی کی تصدیق کریں ";
+"otp_waiting" = "او ٹی پی درج کریں ";
+"register_success" = "آپ کے ای میل کا لائیوسٹاک کے ساتھ کامیابی سے اندراج کیا گیا۔ آپ ای میل اور پاس ورڈ کا استعمال کرکے لاگ ان کرسکتے ہیں۔  ";
+"loading" = "&#8230;لاگ ان ہورہا ہے، براہ کرم انتظار کریں ۔۔۔ ";
+"dialog_title_filter" = "فلٹر کریں ";
+"first_sp" = "آپ کا جانور مفت میں پوسٹ کریں ";
+"second_sp" = "بیس فی صدی بہتر قیمت پر جانوروں کی تصدیق نامہ جات کریں ";
+"third_sp" = "ملک بھر سے جانوروں کا اینیمل اکسس ڈاٹا بیس خریدیں ";
+"fourth_sp" = "ڈیری فارمنگ، گھوڑیں، پالتو جانور وغیرہ پر مشورہ حاصل کریں۔ ";
+"fifth_sp" = "مضامین: انڈسٹری کے ماہرین کے جانب سے تحریرشدہمضامینپڑھیں ";
+"new_pass" = " نیا پاس ورڈ ";
+"code" = " ویریفیکیشن کوڈ ";
+"otp_code" = " ایکٹیویشن کوڈ حاصل کریں ";
+"forgot_pass" = " کیا آپ پاس ورڈ بھول گۓ؟ ";
+"edit_profile" = " پروفائل ایڈٹ کریں ";
+"gender" = "جنس ";
+"uid" = " یونک شناخت ";
+"facebook" = "فیس بک ";
+"country" = "ملک ";
+"plan_post" = "مبارک ہو، آپ نے کامیابی سے ممبرشپ پلان خریدا۔ ";
+"certification_screen" = "تصدیق نامہ میں ہیلتھ چیک اپ، ٹی بی ٹیسٹ، بلڈ پروٹوزوا ٹیسٹ، انٹیسٹائن انفیکشن ٹیسٹ اور الڈ ٹیسٹ شامل ہوں گے۔ ہمارے ویٹرینری پینل کے ماہرین جانور کے مقام پر جاکر سرٹیفیکیشن کا کام انجام دیں گے۔ ";
+"certification_price" = "فی جانور سرٹیفیکیشن 2000 روپیۓ ";
+"success_certification" = "لائیوسٹاک ماہرین کے ذریعے سرٹیفیکیشن کے لیے کامیابی سے داخل ہوا۔ ";
+"no_item_shop" = "خریداری کے لیے کوئی چیز نہیں ";
+"choose_plan" = "پلان منتخب کریں ";
+"new_register" = "خود کو فوری اقدام کے ذریعے لائیوسٹاک سے مندرج کریں ";
+"buy_now" = "اب خریدیں ";
+"status" = ":کیفیت ";
+"cert_status" = ":سرٹیفیکیشن ";
+"articles" = "مضامین ";
+"advisory" = "مشاورتی ";
+"profile" = "میرا پروفائل ";
+"about_us" = "ہمارے بارے میں ";
+"contact_us" = "ہم سے رابطہ کریں ";
+"change_lang" = "زبان تبدیل کریں ";
+"logout" = "لاگ آؤٹ ";
+"verify_code_msg" = "آپ کے موبائل پر بھیجا گیا ویریفیکیشن کوڈ داخل کریں ";
+"verify_email_msg" = "آپ کے ای میل پر بھیجا گیا ویریفیکیشن کوڈ داخل کریں ";
+"enter_mobile_msg" = "آپ کا موبائل نمبر داخل کریں ";
+"enter_email_msg" = "آپ کا ای میل ایڈریس داخل کریں ";
+"skip" = "اسکپ کریں ";
+"select_search" = "اشیا‍‏ء منتخب یا تلاش کریں ";
+"apply_cert" = "سرٹیفیکیشن کے لیے عرضی کریں ";
+"animal" = "جانور ";
+"fill_form_contact" = "لائیوسٹاک سے رابطہ کرنے کے لیےیہ فارم بھریں ";
+"message" = "پیغام ";
+"send_email" = "ای میل بھیجیں ";
+"tollfree" = "ٹآل فری نمبر ";
+"or" = "یا ";
+"no_article" = "کوئی آرٹیکل دستیاب نہیں ";
+"live_update" = "لائیوسٹاک ایپ اپ دیٹ ";
+"new_version_update" = "لائیوسٹاک ایپ کا ایک نیا ورزن دستیاب ہے، نۓ فیچرس کا مزہ لینے کے لیے براہ کرم انسٹال کریں۔ ";
+"later" = "بعد میں ";
+"install" = "انسٹال کریں ";
+"fill_form_advisory" = "مشورہ حاصل کرنے کے لیے اس استفہام فارم کو بھریں  ";
+"query" = "استفہام ";
+"privacy_policy" = "پرائوسی پالسی ";
+"refund_policy" = "ریفنڈ پالسی ";
+"buyer" = "خریدار رکنیت ";
+"seller" = "سیلر رکنیت ";
+"pregnancy_month" = "حاملگی کا مہینہ  ";
+"is_pregnant_ques" = "کیا آپ کا جانور حاملہ ہے؟ ";
+"age_in_month" = "عمر مہینوں میں ";
+"min_yield" = "کم از کم محصول ";
+"max_yield" = "زیادہ سے زیادہ محصول ";
+"yield" = "محصول ";
+"call" = "فون کریں ";
+"try_again" = "دوبارہ کوشش کریں ";
+"congratulation" = "مبارک ہو! ";
+"location_empty" = "حالیہ مقام خالی ہے ";
+"logout_msg" = "کیا آپ یقینی طور پر لاگ آؤٹ ہونا چاہتے ہیں؟ ";
+"shop_cart" = "کارٹ ";
+"no_membership" = "آپ کے پاس ممبرشپ پلان نہیں ہے، براہ کرم سیلر سے رابطہ کرنے کے لیے خریدے ";
+"conti_nue" = "جاری رکھیں ";
+"enter_email" = "ای میل داخل کریں ";
+"enter_email_error" = "جائز ای میل داخل کریں ";
+"activation_code_sent" = "ایکٹیویشن کوڈ بھیجا گیا ";
+"activation_code_sent_to" = "ایکٹیویشن کوڈ ای میل ایڈریس پر بھیجا جاچکا ہے ";
+"cancel" = "منسوخ کریں ";
+"menu" = "مینؤ ";
+"enter_verifiy_mobile" = "براہ کرم آپ کے ای میل ایڈریس پر بھیجا گیا ویریفیکیشن کوڈ داخل کریں ";
+"enter_valid_password" = "براہ کرم جائز پاس ورڈ داخل کریں ";
+"search_country" = "ملک منتخب کریں ";
+"success" = "کامیاب ";
+"compression" = "امیجیس کمپریس ہو رہے ہیں ۔۔۔ ";
+"preparing" = "اپ لوڈ کی تیاری ہو رہی ہے ۔۔۔ ";
+"uploading" = "اپ لوڈ ہو رہے ہیں ";
+"current_membership" = "حالیہ آپ کے پاس کوئی ممبرشپ پلان نہیں ہے، براہ کرم پلان خریدیں ";
+"member_alert" = "ممبرشپ الرٹ ";
+"listing_within" = "لسٹنگ وتھ ان ";
+"discard" = "مسترد کریں ";
+"discard_confirm" = "کیا آپ یقینی طور پر منتخب شدہ فلٹر مسترد کرنا چاہتے ہیں؟ ";
+"no_breed" = "اس قسم میں کوئی نسل نہیں ہے ";
+"profile_update" = "آپ کا پروفائل کامیابی سے اپ لوڈ کیا گیا۔ ";
+"country_set" = "آپ کا ملک متعین کیا گیا  ";
+"update_country" = "آپ اپنے پروفائل میں بھی ملک اپ لوڈ کرسکتے ہیں۔ ";
+"add_listing" = "براہ کرم ایک نیا جانور جمع کریں پھر سرٹیفیکیشن جاری رکھیں۔ ";
+"selling" = "تمام فروخت ";
+"sold" = "فروخت شد ";
+"favorite" = "پسندیدہ ";
+"within" = "اس کے اندر ";
+"max_photo" = "زیادہ سے زیادہ دس تصویریں اپ لوڈ کرسکتے ہیں ";
+"processing" = "پروسیسنگ ";
+"active" = "ایکٹی ویٹیڈ ";
+"not_active" = "ایکٹی ویٹ نہیں کیا گیا ";
+"valid_code" = "براہ کرم جائز ویریفیکیشن کوڈ داخل کریں۔ ";
+"code_match" = "کوڈ میل کھا گیا ";
+"code_not_match" = "کوڈ میل نہیں کھایا۔ براہ کرم جائز ویریفیکیشن کوڈ داخل کریں۔ ";
+"liter" = "لٹرس ";
+"year" = "سال ";
+"month" = "مہینے ";
+"foot" = "فٹ ";
+"kilogram" = "کلوگرام ";
+"remark" = "ریمارک ";
+"primary_add" = "پرائمری پتہ ";
+"secondry_add" = "سیکنڈری پتہ ";
+"seller_name" = "سیلر کا نام ";
+"seller_email" = "سیلر کا ای میل ";
+"seller_contact" = "سیلر موبائل ";
+"is_pregnat" = "کیا جانور حاملہ ہے؟ ";
+"height" = "اونچائی ";
+"weight" = "وزن ";
+"certification_status" = "سرٹیفیکیشن اسٹیٹس: ";
+"total_access" = "کل اکسس ";
+"remain_access" = "باقی ماندہ اکسس ";
+"start_date" = "شروعات کی تاریخ ";
+"end_date" = "خاتمہ کی تاریخ ";
+"search" = "سرچ ";
+"read_more" = "مزید پڑھیں ";
+"no_internet" = "انٹرنیٹ دستیاب نہیں ہے۔ ";
+"share" = "شیئر کریں ";
+"un_favorite" = "پسندیدہ نکالیں ";
+"author" = "مصنف کا نام ";
+"pref_loc" = "جانور کی لسٹنگ دکھانے کے لیے براہ کرم آپ کا ترجیح شدج مقام داخل کریں ";
+"text_where_pickup_address" = "#8230;مقامات سرچ کریں ۔۔۔ ";
+"text_location" = "مقام ";
+"text_select" = "منتخب کریں ";
+"text_pickmeup" = "ڈرائیور تلاش کریں ";
+"select_gender" = "جنس منتخب کریں ";
+"male" = "نر ";
+"female" = "مادہ ";
+"or_reg" = "مندرج / لاگ ان بذریعہ ";
+"or_reg_mobile" = "مندرج بذریعہ موبائل ";
+"select_language" = "زبان منتخب کریں ";
+
+"new_reg" = "<u> </u>";
+
+/**/
+
+"consultancy_title" = "لائیوسٹاک فارم گائڈ پروگرام";
+"consultancy_text" = "مستقبل کے انڈین فارمس کو اپ گریڈ کرنے کے لیے لائیوسٹاک نئے محرکات پیش کرتا ہے۔ یہ ایک ماہر مشاورت اور رہنمائی ہے جو کہ آپ کے فارم کی کایا پلٹ سکتی ہے۔ ہماری کوشش یہ ہوگی کہ آپ کی رہنمائی ان جدید رجحانات کی طرف کی جاۓ جن کا تعلق آپ کے فارم کا انصرام، حفظان صحت کے اقدامات، افزائشِ نسل، جانوروں کی غذائیت اور دیگر بہت سارے مدوں کی طرف کرکے آپ کے فارم کو اپ گریڈ کریں۔ لائیوسٹاک ماہرین ہر ماہ آپ کے مقام پر وزٹ کریں گے اور آپ کے فارم کا محصول، افزائش نسل اور مصنوعات کی مجموعی طور پر اصلاح پر مشورہ دیں گے۔ ہم لائیوسٹاک پر اس پروگرام کو بہتر مستقبل کے لیے ایک طویل مدّت پرعزم پروگرام خیال کرتے ہیں۔";
+"consultancy_notice" = " لائیوسٹاک کے ساتھ فیؤچر فارم پروگرام شروع کرنے کے لیے نیچے کے BUY بٹن پر آپ کو صرف ایک کلک کرنا ہے۔";
+
+"certification_text_one" = "میعار مستقبل کا ایک سرمایہ ہے۔ ہم لائیوسٹاک پر خرید و فروخت کرنے والوں (سیلرس و بائرس) کو تصدیق نامہ کی مدد سے ایک راست لین دین کا یقین دلاتے ہیں۔ ایک ایسی بے مثل خدمت جو صاف شفاف کاروبار کی یقین دہانی کراتی ہے۔ خریداروں کے لیے راحت کی سانس اور سیلرس کے لیے ایک اچھی قیمت! یہ ایک بے عیب لین دین ہے۔ صرف 2500 روپیوں میں آپ اپنے جانور کا تصدیق نامہ حاصل کرنے کے لیے آن لائن عرضی کریں۔ ہم بائرس اور سیلرس دونوں کے لیے جانور کا تصدیق نامہ حاصل کرنے کا متبادل مہیا کرتے ہیں۔ ";
+"certification_text_two" = "بائرس کو فائدا کیسے ہوتا ہے؟";
+"certification_text_three" = "جب آپ آپ کے جانور کا تصدیق نامہ حاصل کرتے ہیں تب اسے تصدیق شدہ جانوروں کی فہرست میں جگہ مل جاۓ گی۔ یہ ایک ایسا بھروسہ مند تصدیق نامہ ہوتا ہے جو جانور سے ملنے والا محصول اور تندرستی میعارات صاف طور پر بیان کرتا ہے۔ آپ کے لیے اس کا کیا مطلب ہوتا ہے؟ مزید صاف شفاف یعنی مانگ کے لیے مزید پوچھ گچھ ۔ اور مزید پوچھ گچھ کا مطلب ہوتا ہے مزید گاہک۔ مزید برآں، ایک اچھا باخبرگاہک جس کے ساتھ سودا پکا کرنا آسان ہوتا ہے، ان مَراعات کا مزہ لیجیۓ۔آج آپ کا صرف 2500 روپیے خرچ کرنا آپ کو 10000 روپیوں تک منافع دینے کا یقین دلاتا ہے۔";
+"certification_text_four" = "سیلر کے لیے تصدیق نامہ حاصل کرنے کا طریقہ کار کیا ہوگا؟";
+"certification_text_five" = "جانور کی فہرست کرنے کے بعد، سیلر کو فہرست شدہ صفحہ پر جانا ہوگا اور اس جانور کو منتخب کرنا ہوگا جس کا تصدیق نامہ حاصل کرنا ہے۔ آپ کو رقم کی ادائیگی  کرنے کے لیے گیٹ-وے پر لے جایا جاۓ گا۔ ادائیگی ہو جانے کے بعد لائیوسٹاک ماہرین آپ کے مقام پر وزٹ کریں گے۔ اور آپ کے جانور کی خون، اس سے ملنے والی پیداوار وغیرہ کی مکمل طور پر جانچ کریں گے۔ ماہرین اس جانور کی رپورٹ دس دن میں دیں گے۔ اور تب بالآخر آپ کے مطالبہ کو جائز ٹھہراتے ہوۓ آپ کے جانور کی تصدیق شدہ جانور میں درجہ بندی کی جاۓ گی۔";
+"certification_text_six" = "خریدار کو کس طرح فائدہ ہوگا؟";
+"certification_text_seven" = "ہم سمجھتے ہیں کہ لائیوسٹاک پر ہر خریدار یہ چاہتا ہے کہ ماہرین کے ذریعے تصدیق شدہ مصنوعات پر سرمایہ لگایا جاۓ۔ ایک تصدیق شدہ جانور مع لائیوسٹاک یقین دہانی شدہ اور عدم نقائص دعؤوں کے ساتھ آتا ہے۔ دھوکہ دہی کے امکانات کے بغیر اورآن لائن تصدیق شدہ جانور منتخب کرنے کی یہ ایسی سہولت ہے کہ خریدار کو صحیح جانور حاصل کرنے کے لیے ایک منڈی سے دوسری منڈی کی طرف بھاگتے پھرنے کی ضرورت نہیں۔ تصدیق کرنے کے لیے خریدار ہمیں آرڈر بھی دے سکتا ہے۔ آپ کی پسند کا جانور منتخب کریں اور آن لائن آرڈر کریں۔ ہر اعتبار سے بہترین سودے کے لیے آپ خریداری کرنے سے کچھ پہلے بھی جانور کی تصدیق کرسکتے ہیں۔بڑی خریداری سے پہلے 2500 روپیوں کی ایک چھوٹی رقم تصدیق پر خرچ کرنے سے ایک بڑا فرق پڑے گا اور آپ ایک غلط سرمایہ کاری سے محفوظ رہیں گے۔";
+
+
+
+
+
+/*Cart*/
+
+"add_to_cart" = "Add to Cart";
+"quantity" = "Quantity";
+"landmark" = "Landmark";
+"city" = "City";
+"house_no" = "House Number";
+"deliver_to_address" = "Deliver to this Address";
+
+"select_address" = "Shipping Address Type";
+"home_address" = "Home";
+"office_address" = "Office";
+
+"no_item_cart" = "No Item in Cart";
+"price_filter" = "Price Filter";
+"clear_filter" = "Clear Filter/Show All";
+
+"product_total" = "Product Total: ";
+"product_tax" = "Tax: ";
+"product_shipping" = "Shipping: ";
+"cart_total" = "Total: ";
+"checkout" = "Confirm Order";
+"shipping_address" = "Shipping Address";
+"billing_address" = "Billing Address";
+"is_billing_address_same" = "Billing Address is same as Shipping Address.";
+"tax" = "Tax";
+
+"order_status" = "Order Status";
+"is_payment" = "Payment Status";
+"order_date" = "Order Date";
+"delivery_date" = "Delivery Date";
+"order_number" = "Order Number";
+"order_price" = "Order Total";
+"orders" = "Orders";
+"detail_order" = "Order Detail";
+"advisory_detail" = "Advisory Detail";
+"add_comments" = "Write your comments...";
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+
+"consultancy_title_two" = "Technical Consultancy by Livestoc";
+
+"consultancy_notice_two" = "Start the Future Farm Program with Livestoc today. For availing our Consultancy Services through the Future Farm Program mail us today at futurefarm@livestoc.com or call us at 18001216191";
+
+"consultancy_text_two" = "Presenting Livestocís new initiative to upgrade Indian farms to a futuristic tomorrow. It is an expert consultancy and guidance program that can transform your farm. Our endeavour is to help you upgrade your farm by guiding you with latest trends on farm management, hygiene, breeding, animal nutrition and much more. Livestoc experts will visit your farm every month and advice you on how to record and access your farm performance. This exercise will help improve the yield, the breed and the productivity of your farm as a whole. At Livestoc, we treat this program like a long term commitment towards a better future.";
+
+
+
+
+"certification_text_eight" = "Certified Animals";
+
+"certification_text_nine" = "Quality is an investment in the future. At Livestoc we assure buyers and sellers of a fair deal with the help of Certification. A unique service that ensures transparency in the transaction. A sigh of relief for the buyer, and a better price for the seller. Sounds like the perfect deal. Get your animal certified at ?1000/-  by simply applying online. We provide the option of getting an animal certified for both buyer and seller.   To put it simply, for a seller an investment of ?1000/- on your cowís certification today will ensure a premium of up to ?10,000/-. And for the buyer, a small amount of spent on certification before a big purchase can make a world of difference and save you from a bad investment.";
+
+"certification_text_ten" = "To get your animal certified to sell as certified animal mail us today at certifications@livestoc.com or call us at 18001216191";
+
+
+
+
+
+/////////////////////////////
+
+
+
+"semen_title" = "Semen Section";
+
+"semen_text" = "Livestoc offers the best semen available from around the world. Now every dairy farmer can order it conveniently with this service at their fingertips. Just log on to the Livestoc mobile app and pick your choice and order. After placing the order, a Livestoc Artificial Insemination Officer will visit your farm and carry out the procedure. We also provide guidance from livestock experts on the subject. We provide all the livestock insemination solutions right at your doorstep and help you with a hassle-free upgrade of your livestock.";
+
+"semen_notice" = "If you are an authorised Semen Seller or a Semen Company and want to sell semen through us mail us today at semen@livestoc.com or call 18001216191";
+
+
+
+
+
+
+
+"champion_title" = "Champion Bulls";
+
+"champion_text" = "The most reputed listing of bulls who challenge the limits of livestock farming, the Champion Bulls. Livestoc has built this platform to showcase these champions who win contests organised by various states and organisations to promote breeding. Find this exclusive list on Livestock and get in touch with breeders who excel in producing the best animals in the world. We will give an opportunity to the breeders to advertise their bulls to get a worldwide reach and visibility.";
+
+"champion_notice" = "If you own a Champion Bull, list it at Livestoc by sharing its details, photographs and certificates. Contact us today at 18001216191 or bulls@livestoc.com.";
+
+
+
+
+
+
+
+"doctor_title" = "Doctor On Call";
+
+"doctor_text" = "At Livestoc we consider animal health of utmost importance. In the best interests of breeders and farmers we have a paid facility called Doctor On Call. This service can be used anytime your animal is in any form of distress. Simply call our helpline and one of the doctors on our panel will reach you any time of the day and night. We have an expert panel of veterinary doctors all over India who will be a call away in case of any emergency. Doctor On Call at 18001216191.";
+
+"doctor_notice" = "To get empanelled as a Doctor on Call with us apply today at hr@livestoc.com or call at 18001216191";
+
+
+
+
+
+
+"auction_title" = "Auctions";
+
+"auction_text" = "We host auctions that have a worldwide audience due to the global customer base of Livestoc.";
+
+"auction_notice" = "Get in touch with us today to sell your animal through a worldwide auction to at 18001216191 or  mail us at auctions@livestoc.com.";
+
+
+
+
+
+
+
+
+"insurance_title" = "Insurance and loans";
+
+"insurance_text" = "Livestoc provides the best deals in the industry whether it comes to cattle insurance from insurance companies or a loan for adding more animals to your livestock or setting up a new livestock farm. Make the most of our user-base by getting deals like no other in the market.";
+
+"insurance_notice" = "To get further details mail us at query@livestoc.com or call us at 18001216191";
+
+
+
+
+
+
+
+"broker_text" = "Livestoc has the most exhaustive listing of brokers from around the world to help you buy and sell animals. Find their contact details for a convenient pick and better deals.";
+
+"broker_title" = "Find Brokers";
+
+"list_broker_title" = "List as a Broker";
+
+"list_broker_text" = "Are you a broker who wants to crack deals in the livestock business like never before? List yourself in our globally reputed list of brokers in livestock/cattle.";
+
+"list_broker_notice" = "Get listed as a broker apply today by contacting us at brokers@livestoc.com or call 18001216191";
+
+
+
+
+
+
+
+"advertise_title" = "Advertise with Livestoc";
+
+"advertise_text" = "Livestoc can empower you with global visibility in the livestock industry. This is a space where the best breeders, farmers, industry experts visit every day. The platform is growing exponentially and is on its way to cross one million downloads. And you can make the most of it by simply advertising your products at Livestoc.";
+
+"advertise_notice" = "To advertise with us mail us today at advertisements@livestoc.com or call at or toll free number 18001216191";
+
+
+
+
+
+"work_title" = "Work with Livestoc";
+
+"work_text" = "Livestoc is on a path to raise awareness and accentuate prosperity in the farms of India. We endeavour to create new opportunities for every person invested in the livestock industry. With Livestoc you can explore new possibilities and work with us for the welfare of the livestock world.";
+
+"work_us_text" = "Veterinary Doctors: Livestoc takes immense pride in the in-house team of veterinary doctors and the animal husbandry panel. We are looking for experts in farm management, nutrition, breeding, general practitioners etc. to join us for services like Doctor On Call, Certifications and Consultancy.   Artificial Insemination Officers: We are looking for qualified and authorised Artificial Insemination certificate holders. Apply to be part of the biggest livestock network.   Farm Connect Officer: If you are good at PR skills, communication and have good leadership qualities apply today at hr@livestoc.com    Sales: We are building the largest network of Livestock Sales Partners. We need smart, resourceful professionals who have an understand the market at the grassroots. People who can inspire others to expand this network and reach every corner, urban or rural to help farmers and breeders with Livestoc. If you have the passion to transform an industry, join the growing family of Livestoc.";
+
+"work_notice" = "To get empanelled with us or work with us apply today at hr@livestoc.com or call our toll free number 18001216191";
+
+
+
+
+"smart_title" = "Smart Cart";
+
+"smart_text" = "The Livestoc app doesnít only deal in animals. Find the best supplements, feed, OTC products and accessories on the mobile app and shop at the best value from the comfort of your home. Here, you can even buy products that are not easily available in a market near your village or town. Isnít it this the smartest way to shop?";
+
+"smart_notice" = "Sell with Smart Cart";
+
+"smart_text_two" = "Are you a feed manufacturer, fodder supplier, supplement manufacturer, or an accessory provider? Find the best opportunity to sell your products at the Livestoc shopping cart. With a massive user base of animal buyers and sellers from all over the world, your product will get the visibility you never imagined. We will empower you to beat your competition in the best of our capacity.";
+
+"smart_notice_two" = "To sell with our smart cart, mail us at smartcart@livestoc.com or call us at 18001216191";
