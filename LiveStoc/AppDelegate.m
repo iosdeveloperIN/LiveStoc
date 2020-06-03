@@ -27,8 +27,9 @@
     [[UINavigationBar appearance] setShadowImage:[[UIImage alloc] init]];
     [[UINavigationBar appearance]setTranslucent:NO];
     [[UIBarButtonItem appearance] setBackButtonTitlePositionAdjustment:UIOffsetMake(-200, 0)
+
                                                          forBarMetrics:UIBarMetricsDefault];
-    
+    //tty
     [[GIDSignIn sharedInstance] setClientID:@"559282035376-sf3bkojc07odarq8ofkuvaao00ufognm.apps.googleusercontent.com"];
     
 //    [[GGLContext sharedInstance] configureWithError: &configureError];
